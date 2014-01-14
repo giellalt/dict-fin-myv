@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<e> <lg> <l pos="Pron">he</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="PRON-PERS-PL3" pos="Pron">сынь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">he yksin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="PRON_" pos="Pron">ськамост</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">heistä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="Pron-Pers" pos="Pron">сындест</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">hän</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="PRON-PERS-SG3" pos="Pron">сон</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">hän itse</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="Pron-Pers" pos="Pron">сонсь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">hän yksin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="PRON_" pos="Pron">ськамонзо</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">hänelle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="PRON-PERS-DAT" pos="Pron">тензэ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">hänelle itselleen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="Pron-Pers" pos="Pron">эстензэ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">ilman minua</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="Pron-Pers" pos="Pron">монгеван</t> <t Contlex="Pron-Pers" pos="Pron">монтемень</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">itsekseen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="Pron-Pers" pos="Pron">эськанзо</t> <t Contlex="Pron-Pers" pos="Pron">эськаст</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">itseksemme</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="Pron-Pers" pos="Pron">эськанок</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">itsekseni</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="Pron-Pers" pos="Pron">эськан</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">itseksenne</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="Pron-Pers" pos="Pron">эськанк</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">itseksesi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="Pron-Pers" pos="Pron">эськат</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">itselleen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="Pron-Pers" pos="Pron">эстест</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">itsellemme</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="Pron-Pers" pos="Pron">эстенек</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">itselleni</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="Pron-Pers" pos="Pron">эстень</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">itsellenne</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="Pron-Pers" pos="Pron">эстенк</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">itsellesi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="Pron-Pers" pos="Pron">эстеть</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">joka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="PRON-IS-REL-SEL" pos="Pron">кона</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">jokin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="Pron-Indef" pos="Pron">мезе-мезе</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">joku</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="PRON-IS-INDEF-PERS-SG-NOM" pos="Pron">кияк</t> </tg> </mg> </e>
+<e> <lg> <l pos="">kaltainen, lainen, tapainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="POSTP-IS-ATTR_КОНДЯМО" pos="Po">кондямо</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">kuka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="PRON-INTERR-HUM_КИ" pos="Pron">кие</t> <t Contlex="PRON-IS-INTERR-PERS" pos="Pron">ки</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">me</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="PRON-PERS-PL1" pos="Pron">минь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">me itse</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="Pron-Pers" pos="Pron">минсь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">me yksin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="PRON_" pos="Pron">ськамонок</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">mihin tarkoitukseen, miksi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="PRON_" pos="Pron">мезекс</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">miksi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="PRON_" pos="Pron">мекс</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">mikä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="PRON-INTERR-OBJ_МЕЗЕ" pos="Pron">мезе</t> <t Contlex="PRON-IS-INTERR-SEL" pos="Pron">кона</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">mikään</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="Pron-Indef" pos="Pron">мезеяк</t> </tg> </mg> </e>
+<e> <lg> <l pos="">milloin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="PRON-IS-INTERR-TEMP" pos="Pron">зярдо</t> </tg> </mg> </e>
+<e> <lg> <l pos="">minkälainen, millainen.</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="PRON-IS-INTERR-ADJ_КОДАМО" pos="Pron">кодамо</t> <t Contlex="PRON-IS-REL-ADJ_КОДАМО" pos="Pron">кодамо</t> </tg> </mg> </e>
+<e> <lg> <l pos="">minne, mihin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="PRON-IS-INTERR-SPAT-LAT" pos="Pron">ков</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">minä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="PRON-PERS-SG1" pos="Pron">мон</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">minä itse</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="Pron-Pers" pos="Pron">монсь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">minä yksin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="PRON_" pos="Pron">ськамон</t> </tg> </mg> </e>
+<e> <lg> <l pos="">missä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="PRON-IS-INTERR-SPAT-INE" pos="Pron">косо</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">mistä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="PRON_" pos="Pron">мезде</t> <t Contlex="PRON_" pos="Pron">мезестэ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">mitä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="PRON-INTERR-OBJ_МЕЗЕ" pos="Pron">мезе</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">ne</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="PRON-PERS-PL3" pos="Pron">сынь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">se</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="PRON-PERS-SG3" pos="Pron">сон</t> </tg> </mg> </e>
+<e> <lg> <l pos="">sellainen, tällainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="PRON-IS-DEM_ИСТЯМО" pos="Pron">истямо</t> </tg> </mg> </e>
+<e> <lg> <l pos="">sinne, tuonne</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="PRON_" pos="Pron">тов</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">sinä yksin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="PRON_" pos="Pron">ськамот</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">te</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="PRON-PERS-PL2" pos="Pron">тынь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">te yksin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="PRON_" pos="Pron">ськамонк</t> </tg> </mg> </e>
+</r>

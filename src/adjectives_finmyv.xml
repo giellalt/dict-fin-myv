@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+
+
+
+
+
+
+
+
+
+
+<e> <lg> <l pos="A">XX</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ABE-ADJ" pos="A">тештевтеме</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ahnas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">жадной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ahne</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">жадной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">aikaisempi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">икелень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">aivo-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">удемев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">aktiivinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">активной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ala-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">алга</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">alhainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">алка</t> <t Contlex="A_КУДО" pos="A">алкине</t> <t Contlex="A_КУДО" pos="A">алкинька</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">alistettu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">соподчинённой</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ammoinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">талаень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ampuma-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">стрелковой</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">antiikki-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">античной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">antiikkinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">античной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">arpinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">аржов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">asiakirja-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">документальной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">asiakirjallinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">документальной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">aurinkoinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">маней</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">automaatti-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">автоматической</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">automaattinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">автоматической</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">avara</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">ёмка</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">efektiivinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">эффективной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">eilinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">исень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">eilis-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">исень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ekvatoriaali-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">экваторонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ekvatoriaalinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">экваторонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">elastinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">ёланя</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">elonkorjuu-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">уборочной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">elättäjä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">корьмай</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">entinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">икелень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">epäterveellinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">вредной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">epätoivoinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">отчаянной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ersäläinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">эрзянь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">etäinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">васолдонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">fantastinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">фантастикань</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">fundamentaalinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">фундаментальной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">haalistunut</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">оланя</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">haapa-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">поень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">haiseva</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">чинев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">hapanimelä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">ризаня</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">harmaa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">шержев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">hauska</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">кенярксов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">heikko</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_ПАНГО" pos="A">лавшо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">heleästi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">гай</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">helmikuinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="GEN-A" pos="A">февралень</t> <t Contlex="A_RU-ОЙ" pos="A">февральской</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">helmikuun</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="GEN-A" pos="A">февралень</t> <t Contlex="A_RU-ОЙ" pos="A">февральской</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">henkilö-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">пассажирской</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">hiekkainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">песоков</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">hiljainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">таймаза</t> <t Contlex="A_ТИНГЕ" pos="A">сэтьме</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">hirveä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_RU-ОЙ" pos="A">отчаянной</t> <t Contlex="A_RU-ОЙ" pos="A">страшной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">historiallinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">исторической</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">hoito-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">лечебной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">huono</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КАЛ" pos="A">берянь</t> <t Contlex="A_КАЛ" pos="A">зыянов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">hurja</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_RU-ОЙ" pos="A">отчаянной</t> <t Contlex="A_КУДО" pos="A">пеляза</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">hurjapäinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">отчаянной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">hurjistunut</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">пеляза</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">hyvin lovinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">аржо потсо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">hyvä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">вадря</t> <t Contlex="A_ПАНГО" pos="A">паро</t> <t Contlex="A_КАЛ" pos="A">ён</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">hyytelömäinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">терьгев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">hyödyllinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">лезэв</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">härski</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">лажаня</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">höllä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_ПАНГО" pos="A">лавшо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ihmis-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">ломанень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ilkeä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_RU-ОЙ" pos="A">вредной</t> <t Contlex="A_КАЛ" pos="A">зыянов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">inhimillinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">ломанень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">iso</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">ине</t> <t Contlex="A_ОШ" pos="A">покш</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">itsepäinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">наян</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">jalkapallo-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">футболонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">joka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">сякой</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">jokainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">сякой</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">joustava</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">ёланя</t> <t Contlex="A_КУДО" pos="A">ёлганя</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">juureton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ABE-ADJ" pos="A">юртомо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">jäinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">эень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">jälkimaksettava</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">доплатной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">järjestely-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">организационной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">järjestämis-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">организационной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">järjestäytymis-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">организационной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">järven-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">эрькень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">järvi-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">эрькень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">jää-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">эень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kaikuvasti</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">гай</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kalpea</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">ловтаня</t> <t Contlex="A_КУДО" pos="A">оланя</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kamala</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">страшной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kammottava</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">страшной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kantava (hevonen)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">вашов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kantava (lehmä)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">вазов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kapea</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">теине</t> <t Contlex="A_КУДО" pos="A">тея</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kapteenin-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_" pos="A">капитанонь </t> </tg> </mg> </e>
+<e> <lg> <l pos="A">karhea</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">кажаня</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">karkea</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">кажаня</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kasteinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">росав</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">katu-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">ульцянь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kauhea</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">страшной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kauhtunut</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">оланя</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kaukainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">васолдонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kaunis</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">вадря</t> <t Contlex="A_КАЛ" pos="A">мазый</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kehno</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">камажа</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">keimaileva</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">наян</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kellertävä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">тюжала</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kelpo</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">аля</t> <t Contlex="A_КУДО" pos="A">вадря</t> <t Contlex="A_КУДО" pos="A">вадря-паро</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">keltainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">ожо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kestävä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">нардев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kevyt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">шождыне</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">keväinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">тундонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kevät-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">ярвой</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kiero</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">кичкере</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kihara(inen)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">кудряв</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kiitollinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">благодарной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kimmoisa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">ёлганя</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kirjava</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">сёрмав</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kirkas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_ПАНГО" pos="A">валдо</t> <t Contlex="A_КАЛ" pos="A">маней</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kirkko-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">престольной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kitkerä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">кажаня</t> <t Contlex="A_КУДО" pos="A">лажаня</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kiusaantunut</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">таймаза</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kivinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">кевев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kloori-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">хлоронь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">koditon</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ABE-ADJ" pos="A">юртомо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">komppanian-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">ротань</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kookas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">вензав</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">koppava</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">наян</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">korskea</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">каштан</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kostea</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_ЛАК" pos="A">верек</t> <t Contlex="A_ПАНГО" pos="A">начко</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">koti-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">тиринь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kova</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">калгодо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kova (leipä)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">кажаня</t> <t Contlex="A_КУДО" pos="A">почаня</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kovaonninen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">пайстомо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kovaosainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">пайстомо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kristalli-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">хрусталень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kristallinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">хрусталень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kristallinkirkas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">хрусталень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">krominahka-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">хромонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">krominahkainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">хромонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kuituinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">сэльгев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kuitumainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">сэльгев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kuiva</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">кажаня</t> <t Contlex="A_ТИНГЕ" pos="A">коське</t> <t Contlex="A_КУДО" pos="A">почаня</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kuivakka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">коськана</t> <t Contlex="A_КУДО" pos="A">коськаня</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kullankellertävä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">янтарень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kultainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">сырнень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kumpareinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">губорьксэв</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kunnioitettu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_ОШ" pos="A">вечкевикс</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kunnon</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">вадря-паро</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kuohkea</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">кавшаня</t> <t Contlex="A_КУДО" pos="A">каланя</t> <t Contlex="A_КУДО" pos="A">пухляня</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kurainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КАЛ" pos="A">бутрав</t> <t Contlex="A_КАЛ" pos="A">рудазов</t> <t Contlex="A_КАЛ" pos="A">рудазов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kuuma</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">пси</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kuvitteellinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">фантастикань</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kylläinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">пешксе</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kylmä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_ТИНГЕ" pos="A">кельме</t> <t Contlex="A_ТИНГЕ" pos="A">экше</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kyläyhteisön</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">велень-сядонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kypsä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">топов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kyvykäs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">ёроков</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">käsitettävä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_ОШ" pos="A">чарькодевикс</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">käyrä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">кичкере</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">köyhä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">бедной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">laaja</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">келей</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">laho</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">макшов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">laiha</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КАЛ" pos="A">берянь</t> <t Contlex="A_КУДО" pos="A">коськана</t> <t Contlex="A_КУДО" pos="A">коськаня</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">lainopillinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">юридической</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">laiska</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">нузяла</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">laiton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">нелегальной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">lakastunut</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">рипаня</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">lakitieteellinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">юридической</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">lakko-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">стачечной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">lauhkea</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">таймаза</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">lauta-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">тёсонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">leikkotukkainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_ОШ" pos="A">наракш</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">lempeä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КАЛ" pos="A">важов</t> <t Contlex="A_КАЛ" pos="A">ёжов-важов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">lerpattava</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">рипаня</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">leveä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">келей</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">lihainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">сывелев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">lihaisa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">сывелев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">lihava</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">куя</t> <t Contlex="A_КАЛ" pos="A">куяв</t> <t Contlex="A_КАЛ" pos="A">телав</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">likainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КАЛ" pos="A">бутрав</t> <t Contlex="A_ОШ" pos="A">каргоць</t> <t Contlex="A_КАЛ" pos="A">рудазов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">loiva</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">вандора</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">lovinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">аржов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">luiseva</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">ловажав</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">luja</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">калгодо</t> <t Contlex="A_КАЛ" pos="A">нардев</t> <t Contlex="A_RU-ОЙ" pos="A">фундаментальной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">luomis-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">творческой</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">luova</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_RU-ОЙ" pos="A">созидательной</t> <t Contlex="A_RU-ОЙ" pos="A">творческой</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">lyhkäinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">нурькине</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">lyhyt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">нурька</t> <t Contlex="A_КУДО" pos="A">нурькине</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">lyhytkasvuinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">алкине</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">lämmin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_ТИНГЕ" pos="A">лембе</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">lääkintä-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">лечебной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">löyhä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_ПАНГО" pos="A">лавшо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">maanalainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">нелегальной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">maho</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">яловой</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">makea</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">ламбамо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">manner-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">континентальной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">mannermainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">континентальной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">mantereinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">континентальной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">matala</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">алка</t> <t Contlex="A_КУДО" pos="A">алкине</t><t Contlex="A_КУДО" pos="A">алкинька</t> <t Contlex="A_КУДО" pos="A">мазя</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">matkustaja-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">пассажирской</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">mauton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ABE-ADJ" pos="A">тансттеме</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">meripihka-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">янтарень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">meripihkan värinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">янтарень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">miehekäs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">аля</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">mielikuvituksellinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">фантастикань</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">miellyttävä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_ОШ" pos="A">вечкевикс</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">mikä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">мень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">minkälainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">мень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">mistä kotoisin oleva</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">костонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">mitätön</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">стяконь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">muhkea</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">пухляня</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">muinainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">кезэрень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">murea</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">почаня</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">museo-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">музеень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">musta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">раужо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">mutkainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">кичкере</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">myrkyllinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">ядов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">märkä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_ПАНГО" pos="A">начко</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">mättäikköinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">сильдеев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">mätä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">макшов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">mätäinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">наксадо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">möyheä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">кавшаня</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">naapuri-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">шабрань</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">nahistunut</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">рипаня</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">naimaton nainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ABE-ADJ" pos="A">мирдевтеме</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">nestemäinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">вецана</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">nilkuttava</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">кромой</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">nokinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">содов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">nopea</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">верка</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">norsun-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">слоновой</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">notkea</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">ливчаня</t> <t Contlex="A_КУДО" pos="A">ёлганя</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">nuori</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">од</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">nuuskanruskea</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">табаконь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">nykyinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">неень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">nälkäinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">вачо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">näyttämö-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">сценической</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">näyttämöllinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">сценической</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">oikea</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">виде</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">oikeudellinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">юридической</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">oikeustieteellinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">юридической</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">oikullinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">норов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">oksainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">моргов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">onnekas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">счастливой</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">onnellinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_RU-ОЙ" pos="A">счастливой</t> <t Contlex="A_КАЛ" pos="A">уцяскав</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">onneton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">пайстомо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ontuva</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">кромой</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">organisaatio-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">организационной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">organisatorinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">организационной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">osaton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">пайстомо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">otsa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">коня</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ovela</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">ёжов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">paha</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">берянь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">pahanilkinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_RU-ОЙ" pos="A">вредной</t> <t Contlex="A_КАЛ" pos="A">зыянов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">pakana-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">языческой</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">pakanallinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">языческой</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">paksu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_ЧУВТО" pos="A">тусто</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">paljasjalkainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">кепе</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">parannus-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">лечебной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">passiivi-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">страдательной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">pataljoonan-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">батальонной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">pehmeä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">каланя</t> <t Contlex="A_КУДО" pos="A">ливчаня</t> <t Contlex="A_ТЕШТЕ" pos="A">чевте</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">pelottava</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">страшной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">perinpohjainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">фундаментальной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">perus-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">фундаментальной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">perusteellinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">фундаментальной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">pieni</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">вишка</t> <t Contlex="A_КУДО" pos="A">вишкине</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">pikkuinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">вишка</t> <t Contlex="A_КУДО" pos="A">вишкине</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">pilvinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">пелев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">pimeä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">чопода</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">pimeästi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">чопода</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">pitkä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">кувака</t> <t Contlex="GEN-A" pos="A">талаень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">pitkäaikainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">талаень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">pohatta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">сюпав-капав</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ponneton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">тужо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">puhdas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_ОШ" pos="A">ванькс</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">puhelin-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">телефонной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">puinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">чувтонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">punainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">якстере</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">puu-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">чувтонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">pyöreä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">кирксала</t> <t Contlex="A_RU-ОЙ" pos="A">кругловой</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">päiväntasaajan-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">экваторонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">pää-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">фундаментальной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">pääkaupungin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">столицань</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">pääkaupunkilainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">столицань</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">pääkaupunkilais-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">столицань</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">pöyheä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">пухляня</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">raaka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_ЛАК" pos="A">верек</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">rahkamainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">топов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">raihnainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">какаря</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">raikas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_ОШ" pos="A">ванькс</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">raitis</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">тетява</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">rakas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_ОШ" pos="A">вечкевикс</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">rakastettava</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_ОШ" pos="A">вечкевикс</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">rakastettu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_ОШ" pos="A">вечкевикс</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">rakentava</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">созидательной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">rampa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">какаря</t> <t Contlex="A_RU-ОЙ" pos="A">кромой</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ranskalainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">французонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">rapea</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">почаня</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">raskaana oleva (nainen)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">пекев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">rasvainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">куя</t> <t Contlex="A_КАЛ" pos="A">куяв</t> <t Contlex="A_КАЛ" pos="A">лемев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">rauhallinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">таймаза</t> <t Contlex="A_ТИНГЕ" pos="A">сэтьме</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">rehellinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">алкуксонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">reikäinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">варяв</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">rikas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КАЛ" pos="A">сюпав</t> <t Contlex="A_КАЛ" pos="A">сюпав-капав</t> <t Contlex="A_КАЛ" pos="A">ярмаков</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">rikkinäinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">варяв</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">rohkea</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">смел</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">roskainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">соров</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ruis-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">розень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ruma</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">амазый</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ruohikkoinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">тикшев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ruokkija</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">корьмай</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ruotoinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">сявов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ruumeniin peittynyt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">сював</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ruunikko</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">саврасой</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ränsistynyt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">какаря</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">saivareiden peittämä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">сярков</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">sakea</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_ЧУВТО" pos="A">тусто</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">samea</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">бутра</t> <t Contlex="A_КАЛ" pos="A">бутрав</t> <t Contlex="A_КАЛ" pos="A">тортав</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">sammaleinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">нупонев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">sankka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_ЧУВТО" pos="A">тусто</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">sateinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">пиземев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">savesta tehty</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">сёвонень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">savi-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">сёвонень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">savinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">сёвонень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">selkeä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">маней</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">selvä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">тетява</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">sementistä tehty</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">цементэнь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">sementti-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">цементэнь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">sementtinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">цементэнь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">sian-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">тувонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">siellä oleva</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">тосонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">sieltä oleva</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">товолдонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">siisti</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_ОШ" pos="A">ванькс</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">sikäläinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">тостонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">sileä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">валаня</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">silmäpuoli</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">кривой</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">sininen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">сэнь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">sinkki-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">цинкень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">sinkkinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">цинкень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">soinnillinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">гайтев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">soinnukas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">гайтев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">sointuisa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">гай</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">sointuva</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">гайтев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">sopiva</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">ён</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">stilistinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">стилистикань</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">sumuinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">сувов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">suola-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">салтонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">suolattu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">салтонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">suora</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">виде</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">surullinen (äänestä)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">лужаня</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">suuri</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">ине</t> <t Contlex="A_ОШ" pos="A">покш</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">suuritöinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">тевев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">syksyinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">сёксень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">synnyin-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">тиринь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">syntinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">грешной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">syvä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">домка</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">syyläinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">сильгев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">taaja</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_ТИНГЕ" pos="A">сееде</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">taantumuksellinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">реакционной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">taantumus-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">реакционной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">taiga-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">тайгань</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">taigan-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">тайгань</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">taipuisa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">ёланя</t> <t Contlex="A_КУДО" pos="A">ёлганя</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">taitava</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">ёроков</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tajuava</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">сознательной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tajuinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">сознательной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">talvi-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">телень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">talvinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">телень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tasainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">валаня</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tataari-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">татаронь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tataarilainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">татаронь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tataarin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">татаронь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tavallinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">стяконь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tavanomainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">стяконь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">teemallinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">тематической</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tehdas-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">фабрикань</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">teho-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">эффективной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tehokas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">эффективной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tehtaan-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">фабрикань</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tekstiili-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">текстильной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">temaattinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">тематической</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">terävä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">пшти</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tietoinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">сознательной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tiheä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_ТИНГЕ" pos="A">сееде</t> <t Contlex="A_ЧУВТО" pos="A">тусто</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tiine</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КАЛ" pos="A">вазов</t> <t Contlex="A_КАЛ" pos="A">вашов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tilava</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">ёмка</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">todellinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">алкуксонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">toimekas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">тевев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">toimelias</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">аля</t> <t Contlex="A_КАЛ" pos="A">тевев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">toisen oma</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">ломанень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">toivoton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">отчаянной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tosi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">виде</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">totuudellinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">алкуксонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">touko-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">ярвой</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tsaari-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">царень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tsaarillinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">царень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tsaarin-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">царень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tuhkaan peittynyt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">куловов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tuhkainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">куловов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tukahduttava (ilma)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">опаня</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tukahduttava kuumuus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">опаня</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tuleva</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">икелень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tumma</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">бутра</t> <t Contlex="A_КУДО" pos="A">чопода</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tummanvihreä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">руманя</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tuoksuva</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">чинев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tuolta oleva</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">товолдонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tupakan-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">табаконь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tupakanruskea</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">табаконь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tupakanvärinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">табаконь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tupakka-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">табаконь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tupsullinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">цёков</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">turmiollinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_RU-ОЙ" pos="A">вредной</t> <t Contlex="A_КАЛ" pos="A">зыянов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">turve-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">торфонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tuulinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">вармав</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tyhjä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">вачо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tylsä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">ношка</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tyyli-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">стилистикань</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tyylillinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">стилистикань</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">työkuntoinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">роботопособной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">työkykyinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">роботопособной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">työläs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">тевев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">työteliäs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">роботопособной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tähti-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">тештев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tähtinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">тештев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">täkäläinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="GEN-A" pos="A">тескень</t> <t Contlex="GEN-A" pos="A">тестэнь</t> <t Contlex="GEN-A" pos="A">тесэнь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">täynnä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">пешксе</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">täysi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">пешксе</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">udmurtin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">удмуртонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">udmurtti-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">удмуртонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">uiko-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">ушонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ulkoinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">ушонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">usvainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">сувов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">uusi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">од</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">uzbekki-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">узбекень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">uzbekkilainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">узбекень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">vaalea</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">ашола</t> <t Contlex="A_ПАНГО" pos="A">валдо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">vaaleahko</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">ашназа</t> <t Contlex="A_КУДО" pos="A">ашола</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">vaalean-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">ашназа</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">vaaleanruunikko</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">саврасой</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">vahingollinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_RU-ОЙ" pos="A">вредной</t> <t Contlex="A_КАЛ" pos="A">зыянов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">vahva</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КАЛ" pos="A">виев</t> <t Contlex="A_КАЛ" pos="A">нардев</t> <t Contlex="A_КУДО" pos="A">таза</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">valkea</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">ашо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">valkoinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">ашо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">valmis</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_ЛАК" pos="A">анок</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">valoisa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_ПАНГО" pos="A">валдо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">vaneri-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">фанерань</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">vanha</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="GEN-A" pos="A">кезэрень</t> <t Contlex="A_КАЛ" pos="A">сыре</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">vankka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">фундаментальной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">varakas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">ярмаков</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">veltto</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КУДО" pos="A">рипаня</t> <t Contlex="A_КУДО" pos="A">тужо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">venyvä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">терьгев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">venäläinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">рузонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">verinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">верев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">verka-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">сукнань</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">verkainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">сукнань</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">verkkainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">тужо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">verovelvollinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">тягловой</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">vetinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КАЛ" pos="A">ведев</t> <t Contlex="A_КУДО" pos="A">вецана</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">vetoisa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">ёмка</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">viekas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">ёжов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">vieras</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">ломанень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">vihainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КАЛ" pos="A">кежев</t> <t Contlex="A_КАЛ" pos="A">кежей</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">vihneinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">сявов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">vihreä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КУДО" pos="A">пиже</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">viileä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_ТИНГЕ" pos="A">экше</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">viilu-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">фанерань</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">viljankorjuu-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">уборочной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">vilpitön</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_ОШ" pos="A">ванькс</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">vimmattu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">отчаянной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">voimakas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="A_КАЛ" pos="A">виев</t> <t Contlex="A_КАЛ" pos="A">нардев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">väkevä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">виев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">välskärin-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_RU-ОЙ" pos="A">фельдшерской</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ydin-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">удемев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">yhteinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">вейсэнь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ylpeä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">каштан</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ymmärrettävä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_ОШ" pos="A">чарькодевикс</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ystävällinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="A_КАЛ" pos="A">ёжов-важов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">äidin-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">тиринь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">äskeinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="GEN-A" pos="A">улконь</t> </tg> </mg> </e>
+
+</r>

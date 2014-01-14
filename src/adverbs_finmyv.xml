@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<e> <lg> <l pos="N">XX</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="PRED2-SUBJ_ОШ" pos="Adv">оймень кирдезь</t> <t Contlex="PRED2-SUBJ_ОШ" pos="Adv">оймемелень ванстозь</t><t Contlex="ADV_" pos="Adv">астяко</t> <t Contlex="MANNER_" pos="Adv">апарсте</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">aikaisin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ADV-TEMP_" pos="Adv">рана</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">aivan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ADV_" pos="Adv">овсе</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">alhaalla</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="Spat_" pos="Adv">алга</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">alhaalta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="Spat_" pos="Adv">алдо</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">ali</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="Spat_" pos="Adv">алга</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">alitse</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="Spat_" pos="Adv">алга</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">alta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="Spat_" pos="Adv">алдо</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">ammoin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ADV-TEMP_" pos="Adv">талай</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">heti huomenna</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ADV-TEMP_" pos="Adv">вандыке</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">huomenna</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ADV-TEMP_" pos="Adv">ванды</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">illansuussa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="SPAT-Prl" pos="Adv">чокшне ланга</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">jalan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="PRED2-SUBJ_КУДО" pos="Adv">ялго</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">jalkaisin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="PRED2-SUBJ_КУДО" pos="Adv">ялго</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">joka tapauksessa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ADV_КУДО" pos="Adv">ялатеке</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">juuri</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="Ad-A_" pos="Adv">самай</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">kaikkiaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ADV_" pos="Adv">овсе</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">kauan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ADV-TEMP_" pos="Adv">талай</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">kohta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ADV-TEMP_ЛАК" pos="Adv">курок</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">kokonaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ADV_" pos="Adv">овсе</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">kuitenkin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ADV_КУДО" pos="Adv">ялатеке</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">lainkaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ADV_" pos="Adv">овсе</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">lopulta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ORD_" pos="Adv">окойники</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">lähellä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="malaso-SPAT" pos="Adv">маласо</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">mihin.</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="SPAT-Interr" pos="Adv">ков</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">minne</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="SPAT-Interr" pos="Adv">ков</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">myrskyn aikaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ADV-TEMP_" pos="Adv">даволнэ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">myöhään</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ADV-TEMP_" pos="Adv">талай</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">nopeasti</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ADV-TEMP_ЛАК" pos="Adv">курок</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">ontuen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="MANNER_" pos="Adv">кромойстэ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">paljain jaloin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ADV_КУДО" pos="Adv">кепе</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">pian</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ADV-TEMP_ЛАК" pos="Adv">курок</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">pitkään</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ADV-TEMP_" pos="Adv">талай</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">samantekevää</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ADV_КУДО" pos="Adv">ялатеке</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">siihen asti</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ADV-TEMP_" pos="Adv">семс</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">sinne</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ADV-IS-SPAT-LAT" pos="Adv">тов</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">sinne sun tänne</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="Spat_" pos="Adv">тей-тов</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">tuonne</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ADV-IS-SPAT-LAT" pos="Adv">тов</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">tähän asti</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ADV-TEMP_" pos="Adv">семс</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">tähän päivään asti</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ADV-TEMP_" pos="Adv">течимс</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">tänä päivänä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ADV-TEMP_" pos="Adv">течи</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">tänään</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ADV-TEMP_" pos="Adv">течи</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">vihdoin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ORD_" pos="Adv">окойники</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">yhtäkkiä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ADV-TEMP_" pos="Adv">друк</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">ympärillä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ADV-SPAT_АЛО" pos="Adv">пертьпеле</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">äkkiä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="ADV-TEMP_" pos="Adv">друк</t> </tg> </mg> </e>
+</r>
