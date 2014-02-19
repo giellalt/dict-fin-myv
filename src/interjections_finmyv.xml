@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<e> <lg> <l pos="Interj">ahaa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="INTERJ_" pos="Interj">а</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">häh</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="INTERJ_" pos="Interj">а</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">hoi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="INTERJ_" pos="Interj">а</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">poikaseni</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="VOCATIVE_" pos="Interj">цёр</t> </tg> </mg> </e>
+<e> <lg> <l pos="">ahaa; kyllä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="INTERJ_" pos="Interj">ага</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ei</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="INTERJ-NEG" pos="Interj">арась</t> </tg> </mg> </e>
+<e> <lg> <l pos="">päkä-päkä (lampaan kutsuhuuto)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="INTERJ_" pos="Interj">барь-барь</t> </tg> </mg> </e>
+<e> <lg> <l pos="">-han/-hän.</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="INTERJ_" pos="Interj">биш</t> </tg> </mg> </e>
+<e> <lg> <l pos="">voi, oi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="INTERJ_" pos="Interj">вай</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">XX</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="VOCATIVE_" pos="Prop">Ведьавакай</t> </tg> </mg> </e>
+
+
+<e> <lg> <l pos="">kah, kas, kappas, katsos</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="INTERJ_" pos="Interj">ишь</t> </tg> </mg> </e>
+<e> <lg> <l pos="">hus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="INTERJ_" pos="Interj">кшу</t> </tg> </mg> </e>
+<e> <lg> <l pos="">kas (tuo) tuolla</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="INTERJ_" pos="Interj">оно</t> </tg> </mg> </e>
+<e> <lg> <l pos="">riittää!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="INTERJ-IMP" pos="Interj">пандя</t> </tg> </mg> </e>
+<e> <lg> <l pos="">riittää!, hyvä on!, lopeta!, on jo tarpeeksi!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="INTERJ_" pos="Interj">саты</t> </tg> </mg> </e>
+<e> <lg> <l pos="">kiitos</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="FORMULAIC_" pos="Interj">сюкпря</t> </tg> </mg> </e>
+<e> <lg> <l pos="">älä hosu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="INTERJ-IMP" pos="Interj">ужо</t> </tg> </mg> </e>
+<e> <lg> <l pos="">voi, huh</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="INTERJ_" pos="Interj">ух</t> </tg> </mg> </e>
+<e> <lg> <l pos="">no</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="INTERJ-IMP" pos="Interj">эрде</t> </tg> </mg> </e>
+<e> <lg> <l pos="">no, kas niin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="INTERJ-IMP" pos="Interj">эрь</t> </tg> </mg> </e>
+<e> <lg> <l pos="">no</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="INTERJ-IMP" pos="Interj">эрьга</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">XX</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="VOCATIVE_" pos="Interj">юртавай</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">katsos</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="INTERJ-IMP" pos="Interj">я</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">kas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="INTERJ-IMP" pos="Interj">я</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">no</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="INTERJ-IMP" pos="Interj">я</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ai</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="INTERJ-IMP" pos="Interj">я</t> </tg> </mg> </e>
+<e> <lg> <l pos="">no</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="INTERJ-IMP" pos="Interj">ярь</t> </tg> </mg> </e>
+</r>
