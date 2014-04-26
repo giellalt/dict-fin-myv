@@ -1,348 +1,281 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd"
-   xml:lang="fin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-  <lics xml:space="preserve">
-    <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+<r xml:lang="fin">
+<lics xml:space="preserve">
+  <lic xml:lang="en">This code is made available under a Creative Commons Attribution license
+   <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
    You are free to copy, distribute and adapt the work, as long as you always give
    proper attribution using the attribution text below.
    For the full license text, see the link above.</lic>
-
-    <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+  <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
    Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-
-    <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+  <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
    This is NOT a fully styled and published dictionary.
    As such it can and will contain unfinished entries, unpublished entries, 
    entries with objectionable translations, etc. If you find any errors 
-   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote>
-  </lics>
-
-  <e>
-    <lg>
-      <l pos="Po">ali</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <semantics>
-        <sem class="MORFAS"/>
-      </semantics>
-
-      <tg xml:lang="myv">
-        <t Contlex="PO-IS-PRL" pos="Po">алга</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Po">alitse</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <semantics>
-        <sem class="MORFAS"/>
-      </semantics>
-
-      <tg xml:lang="myv">
-        <t Contlex="PO-IS-PRL" pos="Po">алга</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Po">alla</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <semantics>
-        <sem class="MORFAS"/>
-      </semantics>
-
-      <tg xml:lang="myv">
-        <t Contlex="PO-IS-PRL" pos="Po">алга</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Po">alta</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <semantics>
-        <sem class="MORFAS"/>
-      </semantics>
-
-      <tg xml:lang="myv">
-        <t Contlex="PO-IS-ABL" pos="Po">алдо</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Po">asemesta, sijasta, sijaan, tilalle</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="PO-IS-ILL-STEM" pos="Po">эземс</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Po">kanssa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <semantics>
-        <sem class="MORFAS"/>
-      </semantics>
-
-      <tg xml:lang="myv">
-        <t Contlex="PO_МАРТО" pos="Po">марто</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">koko</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="PO-TEMP_" pos="Po">перть</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Po">luo</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="PO_ОШ-ILL" pos="Po">ваксс</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Po">luokse</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="PO_ОШ-ILL" pos="Po">ваксс</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Po">läpi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="PO-SPAT_" pos="Po">пачк</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pr">läpi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="PO-TEMP_" pos="Po">перть</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Po">pitkin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="PO-IS-PRL" pos="Po">ланга</t>
-
-        <t Contlex="PO-IS-PRL" pos="Po">кувалма</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Po">päällä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="PO-IS-PRL" pos="Po">ланга</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Po">taa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="PO_" pos="Po">удалов</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Po">taakse</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="PO_" pos="Po">удалов</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Po">takana</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="PO_КАЛ-LOC" pos="Po">удало</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Po">takia, vuoksi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="PO-IS-PRL" pos="Po">кувалма</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Po">vasten</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="PO-IS-PRL" pos="Po">ланга</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Po">vieressä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="PO_ОШ-INE4" pos="Po">вакссо</t>
-      </tg>
-    </mg>
-  </e>
+   or want to add more words, download the file, edit it, and send it back to
+   <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote>
+</lics>   
+   <e>
+      <lg>
+         <l pos="Po">ali</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="MORFAS"/>
+         </semantics>
+         <tg xml:lang="myv">
+            <t Contlex="PO-IS-PRL" pos="Po">алга</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">alitse</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="MORFAS"/>
+         </semantics>
+         <tg xml:lang="myv">
+            <t Contlex="PO-IS-PRL" pos="Po">алга</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">alla</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="MORFAS"/>
+         </semantics>
+         <tg xml:lang="myv">
+            <t Contlex="PO-IS-PRL" pos="Po">алга</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">alta</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="MORFAS"/>
+         </semantics>
+         <tg xml:lang="myv">
+            <t Contlex="PO-IS-ABL" pos="Po">алдо</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">asemesta, sijasta, sijaan, tilalle</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="PO-IS-ILL-STEM" pos="Po">эземс</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">kanssa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="MORFAS"/>
+         </semantics>
+         <tg xml:lang="myv">
+            <t Contlex="PO_МАРТО" pos="Po">марто</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">koko</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="PO-TEMP_" pos="Po">перть</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">luo</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="PO_ОШ-ILL" pos="Po">ваксс</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">luokse</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="PO_ОШ-ILL" pos="Po">ваксс</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">läpi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="PO-SPAT_" pos="Po">пачк</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">läpi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="PO-TEMP_" pos="Po">перть</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">pitkin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="PO-IS-PRL" pos="Po">ланга</t>
+            <t Contlex="PO-IS-PRL" pos="Po">кувалма</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">päällä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="PO-IS-PRL" pos="Po">ланга</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">taa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="PO_" pos="Po">удалов</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">taakse</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="PO_" pos="Po">удалов</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">takana</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="PO_КАЛ-LOC" pos="Po">удало</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">takia, vuoksi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="PO-IS-PRL" pos="Po">кувалма</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">vasten</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="PO-IS-PRL" pos="Po">ланга</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">vieressä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="PO_ОШ-INE4" pos="Po">вакссо</t>
+         </tg>
+      </mg>
+   </e>
 </r>

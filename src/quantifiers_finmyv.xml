@@ -1,1354 +1,1095 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd"
-   xml:lang="fin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-  <lics xml:space="preserve">
-    <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+<r xml:lang="fin">
+<lics xml:space="preserve">
+  <lic xml:lang="en">This code is made available under a Creative Commons Attribution license
+   <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
    You are free to copy, distribute and adapt the work, as long as you always give
    proper attribution using the attribution text below.
    For the full license text, see the link above.</lic>
-
-    <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+  <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
    Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-
-    <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+  <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
    This is NOT a fully styled and published dictionary.
    As such it can and will contain unfinished entries, unpublished entries, 
    entries with objectionable translations, etc. If you find any errors 
-   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote>
-  </lics>
-
-  <e>
-    <lg>
-      <l pos="Qnt">ensinnäkin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="ADV-ORD" pos="Qnt">васняяк</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Qnt">harvoin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="ITER_" pos="Qnt">чуросто</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">joka</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="QNT_КУДО" pos="Qnt">эрьва</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">jokainen</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="QNT_КУДО" pos="Qnt">эрьва</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Qnt">juuri</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="ADV_" pos="Adv">эль</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Qnt">juuri ja juuri</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="QNT_" pos="Qnt">цяк</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">kahdeksan</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <semantics>
-        <sem class="mCARD_SMALL"/>
-      </semantics>
-
-      <tg xml:lang="myv">
-        <t Contlex="NUM_КУДО" pos="Num">кавксо</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">kahdeksantoista</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="NUM_КУДО" pos="Num">кемгавксово</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">kahdeksas</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <semantics>
-        <sem class="mORD_SMALL"/>
-      </semantics>
-
-      <tg xml:lang="myv">
-        <t Contlex="NUM_КУДО" pos="Qnt">кавксоце</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">kahdeskymmenesensimmäinen</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="NUM_КУДО" pos="Qnt">комсьвейкееце</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">kahdeskymmenestoinen</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="NUM_КУДО" pos="Qnt">комськавтовоце</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">kahdeskymmenesviides</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="NUM_КУДО" pos="Qnt">комсьветееце</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">kahdeskymmenesyhdeksäs</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="NUM_КУДО" pos="Qnt">комсьвейксэеце</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">kahdesti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="ITER_" pos="Qnt">кавксть</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Qnt">kaikki</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="vese-QNT" pos="Dem">весе</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">kaksi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <semantics>
-        <sem class="mCARD_SMALL"/>
-      </semantics>
-
-      <tg xml:lang="myv">
-        <t Contlex="Card-2" pos="Num">кавто</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">kaksikymmentä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="NUM_ОШ" pos="Qnt">комсь</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">kaksikymmentäkahdeksan</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="NUM_КУДО" pos="Qnt">комськавксово</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">kaksikymmentäkaksi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="NUM_КУДО" pos="Qnt">комськавтово</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">kaksikymmentäyhdeksän</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="NUM_КУДО" pos="Qnt">комсьвейксэе</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">kaksikymmentäyksi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="NUM_КУДО" pos="Qnt">комсьвейкее</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">kaksisataa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="NUM_СЯДО" pos="Qnt">кавтосядт</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">kaksitoista</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="NUM_КУДО" pos="Qnt">кемгавтово</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Qnt">kerran</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="ITER_" pos="Qnt">весть</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Qnt">kokonaan</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="QNT_" pos="Qnt">целанек</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">kolmas</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <semantics>
-        <sem class="mORD_SMALL"/>
-      </semantics>
-
-      <tg xml:lang="myv">
-        <t Contlex="NUM_КУДО" pos="Qnt">колмоце</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">kolme</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <semantics>
-        <sem class="mCARD_SMALL"/>
-      </semantics>
-
-      <tg xml:lang="myv">
-        <t Contlex="NUM_КУДО" pos="Num">колмо</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Qnt">kolme kertaa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="ITER_" pos="Qnt">колмоксть</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">kolmesataa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="NUM_СЯДО" pos="Qnt">колмосядт</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">kolmestaan</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="QNT-DISTR" pos="Qnt">колмонь-колмонь</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">kolmetoista</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="NUM_КУДО" pos="Qnt">кемголмово</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">kolmistaan</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="QNT-DISTR" pos="Qnt">колмонь-колмонь</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">kuudes</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <semantics>
-        <sem class="mORD_SMALL"/>
-      </semantics>
-
-      <tg xml:lang="myv">
-        <t Contlex="NUM_КУДО" pos="Qnt">котоце</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">kuusi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <semantics>
-        <sem class="mCARD_SMALL"/>
-      </semantics>
-
-      <tg xml:lang="myv">
-        <t Contlex="NUM_КУДО" pos="Num">кото</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">kuusisataa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="NUM_СЯДО" pos="Qnt">котосядт</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">kuusitoista</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="NUM_КУДО" pos="Qnt">кемготово</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">kymmenen</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <semantics>
-        <sem class="mCARD_SMALL"/>
-      </semantics>
-
-      <tg xml:lang="myv">
-        <t Contlex="NUM_КАЛ" pos="Num">кемень</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Qnt">kymmenen kertaa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="ITER_" pos="Qnt">кеменьксть</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">kymmenes</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <semantics>
-        <sem class="mORD_SMALL"/>
-      </semantics>
-
-      <tg xml:lang="myv">
-        <t Contlex="NUM_КУДО" pos="Qnt">кеменце</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">miljoona</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="NUM_КАЛ" pos="Num">миллион</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Qnt">monesko</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="ORD" pos="Qnt">зняроце</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Qnt">monettako kertaa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="ITER_" pos="Qnt">зняроксть</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Qnt">monta kertaa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="ITER_" pos="Qnt">ламоксть</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">neljä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <semantics>
-        <sem class="mCARD_SMALL"/>
-      </semantics>
-
-      <tg xml:lang="myv">
-        <t Contlex="NUM_КУДО" pos="Num">ниле</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Qnt">neljä kertaa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="ITER_" pos="Qnt">нилексть</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">neljäs</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <semantics>
-        <sem class="mORD_SMALL"/>
-      </semantics>
-
-      <tg xml:lang="myv">
-        <t Contlex="NUM_КУДО" pos="Qnt">нилеце</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Qnt">neljäskymmenes</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="ORD" pos="Qnt">ниленьгеменце</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">neljätoista</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="NUM_КУДО" pos="Qnt">кемнилее</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Qnt">pari kertaa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="ITER_" pos="Qnt">весть-кавксть</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Qnt">pari kolme</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="NUMAPPROX_" pos="Qnt">кавто-колмо</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Qnt">puoli, puolikas</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="QNT_" pos="Qnt">пель</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">sata</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="NUM_СЯДО" pos="Qnt">сядо</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">seitsemän</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <semantics>
-        <sem class="mCARD_SMALL"/>
-      </semantics>
-
-      <tg xml:lang="myv">
-        <t Contlex="NUM_КАЛ" pos="Num">сисем</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">seitsemänsataa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="NUM_СЯДО" pos="Qnt">сисемсядт</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">seitsemäs</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <semantics>
-        <sem class="mORD_SMALL"/>
-      </semantics>
-
-      <tg xml:lang="myv">
-        <t Contlex="NUM_КУДО" pos="Qnt">сисемеце</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">tavallinen</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="QNT_КУДО" pos="Qnt">эрьва</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">toinen</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <semantics>
-        <sem class="HUMAN_A"/>
-      </semantics>
-
-      <tg xml:lang="myv">
-        <t Contlex="A_ОШ" pos="A">омботькс</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">toinen</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <semantics>
-        <sem class="mORD_SMALL"/>
-      </semantics>
-
-      <tg xml:lang="myv">
-        <t Contlex="ORD_КУДО" pos="N">омбоце</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Qnt">toinen</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="A_КУДО" pos="A">лия</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">toisena</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <semantics>
-        <sem class="HUMAN_A"/>
-      </semantics>
-
-      <tg xml:lang="myv">
-        <t Contlex="A_ОШ" pos="A">омботькс</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Qnt">toista kertaa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="ORD" pos="Qnt">омбоцеде</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Qnt">tuhannes</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="ORD_КУДО" pos="Qnt">тёжаце</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Qnt">tuhat</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="QNT_КУДО" pos="Qnt">тёжа</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">viides</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <semantics>
-        <sem class="mORD_SMALL"/>
-      </semantics>
-
-      <tg xml:lang="myv">
-        <t Contlex="ORD" pos="Qnt">ветеце</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Qnt">viidettä kertaa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="ORD" pos="Qnt">ветецеде</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">viisi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <semantics>
-        <sem class="mCARD_SMALL"/>
-      </semantics>
-
-      <tg xml:lang="myv">
-        <t Contlex="NUM_КУДО" pos="Num">вете</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Qnt">viisi kertaa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="ITER_" pos="Qnt">ветексть</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">viisitoista</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="NUM_КУДО" pos="Num">кеветее</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Qnt">viitisen kertaa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="ITER_" pos="Qnt">ветешкаксть</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Qnt">vähitellen</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="QNT_ЛАМО" pos="Qnt">аламонь-аламонь</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Qnt">vähän</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="QNT_" pos="Qnt">цютькеть</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Qnt">vähäsen</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="QNT-DISTR" pos="Qnt">цють-цють</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Qnt">yhdeksisenkymmentä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="NUM" pos="Qnt">вейксэньгеменьшка</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">yhdeksän</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <semantics>
-        <sem class="mCARD_SMALL"/>
-      </semantics>
-
-      <tg xml:lang="myv">
-        <t Contlex="NUM_КУДО" pos="Num">вейксэ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Qnt">yhdeksäs</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <semantics>
-        <sem class="mORD_SMALL"/>
-      </semantics>
-
-      <tg xml:lang="myv">
-        <t Contlex="ORD" pos="Qnt">вейксэце</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">yksi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <semantics>
-        <sem class="mCARD_SMALL"/>
-      </semantics>
-
-      <tg xml:lang="myv">
-        <t Contlex="Cards-1-2" pos="Num">вейке</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Qnt">yksi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="QNT-ADN" pos="Qnt">ве</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">yksitoista</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="NUM_КУДО" pos="Qnt">кевейкее</t>
-      </tg>
-    </mg>
-  </e>
+   or want to add more words, download the file, edit it, and send it back to
+   <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote>
+</lics>   
+   <e>
+      <lg>
+         <l pos="Qnt">ensinnäkin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="ADV-ORD" pos="Qnt">васняяк</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">harvoin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="ITER_" pos="Qnt">чуросто</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">joka</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="QNT_КУДО" pos="Qnt">эрьва</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">jokainen</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="QNT_КУДО" pos="Qnt">эрьва</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">juuri</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="ADV_" pos="Adv">эль</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">juuri ja juuri</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="QNT_" pos="Qnt">цяк</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kahdeksan</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="mCARD_SMALL"/>
+         </semantics>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_КУДО" pos="Num">кавксо</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kahdeksantoista</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_КУДО" pos="Num">кемгавксово</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kahdeksas</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="mORD_SMALL"/>
+         </semantics>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_КУДО" pos="Qnt">кавксоце</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kahdeskymmenesensimmäinen</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_КУДО" pos="Qnt">комсьвейкееце</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kahdeskymmenestoinen</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_КУДО" pos="Qnt">комськавтовоце</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kahdeskymmenesviides</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_КУДО" pos="Qnt">комсьветееце</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kahdeskymmenesyhdeksäs</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_КУДО" pos="Qnt">комсьвейксэеце</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kahdesti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="ITER_" pos="Qnt">кавксть</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">kaikki</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="vese-QNT" pos="Dem">весе</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kaksi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="mCARD_SMALL"/>
+         </semantics>
+         <tg xml:lang="myv">
+            <t Contlex="Card-2" pos="Num">кавто</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kaksikymmentä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_ОШ" pos="Qnt">комсь</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kaksikymmentäkahdeksan</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_КУДО" pos="Qnt">комськавксово</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kaksikymmentäkaksi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_КУДО" pos="Qnt">комськавтово</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kaksikymmentäyhdeksän</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_КУДО" pos="Qnt">комсьвейксэе</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kaksikymmentäyksi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_КУДО" pos="Qnt">комсьвейкее</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kaksisataa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_СЯДО" pos="Qnt">кавтосядт</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kaksitoista</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_КУДО" pos="Qnt">кемгавтово</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">kerran</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="ITER_" pos="Qnt">весть</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">kokonaan</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="QNT_" pos="Qnt">целанек</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kolmas</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="mORD_SMALL"/>
+         </semantics>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_КУДО" pos="Qnt">колмоце</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kolme</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="mCARD_SMALL"/>
+         </semantics>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_КУДО" pos="Num">колмо</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">kolme kertaa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="ITER_" pos="Qnt">колмоксть</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kolmesataa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_СЯДО" pos="Qnt">колмосядт</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kolmestaan</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="QNT-DISTR" pos="Qnt">колмонь-колмонь</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kolmetoista</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_КУДО" pos="Qnt">кемголмово</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kolmistaan</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="QNT-DISTR" pos="Qnt">колмонь-колмонь</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kuudes</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="mORD_SMALL"/>
+         </semantics>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_КУДО" pos="Qnt">котоце</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kuusi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="mCARD_SMALL"/>
+         </semantics>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_КУДО" pos="Num">кото</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kuusisataa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_СЯДО" pos="Qnt">котосядт</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kuusitoista</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_КУДО" pos="Qnt">кемготово</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kymmenen</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="mCARD_SMALL"/>
+         </semantics>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_КАЛ" pos="Num">кемень</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">kymmenen kertaa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="ITER_" pos="Qnt">кеменьксть</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kymmenes</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="mORD_SMALL"/>
+         </semantics>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_КУДО" pos="Qnt">кеменце</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">miljoona</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_КАЛ" pos="Num">миллион</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">monesko</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="ORD" pos="Qnt">зняроце</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">monettako kertaa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="ITER_" pos="Qnt">зняроксть</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">monta kertaa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="ITER_" pos="Qnt">ламоксть</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">neljä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="mCARD_SMALL"/>
+         </semantics>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_КУДО" pos="Num">ниле</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">neljä kertaa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="ITER_" pos="Qnt">нилексть</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">neljäs</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="mORD_SMALL"/>
+         </semantics>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_КУДО" pos="Qnt">нилеце</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">neljäskymmenes</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="ORD" pos="Qnt">ниленьгеменце</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">neljätoista</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_КУДО" pos="Qnt">кемнилее</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">pari kertaa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="ITER_" pos="Qnt">весть-кавксть</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">pari kolme</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="NUMAPPROX_" pos="Qnt">кавто-колмо</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">puoli, puolikas</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="QNT_" pos="Qnt">пель</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">sata</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_СЯДО" pos="Qnt">сядо</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">seitsemän</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="mCARD_SMALL"/>
+         </semantics>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_КАЛ" pos="Num">сисем</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">seitsemänsataa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_СЯДО" pos="Qnt">сисемсядт</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">seitsemäs</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="mORD_SMALL"/>
+         </semantics>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_КУДО" pos="Qnt">сисемеце</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">tavallinen</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="QNT_КУДО" pos="Qnt">эрьва</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">toinen</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="HUMAN_A"/>
+         </semantics>
+         <tg xml:lang="myv">
+            <t Contlex="A_ОШ" pos="A">омботькс</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">toinen</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="mORD_SMALL"/>
+         </semantics>
+         <tg xml:lang="myv">
+            <t Contlex="ORD_КУДО" pos="N">омбоце</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">toinen</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="A_КУДО" pos="A">лия</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">toisena</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="HUMAN_A"/>
+         </semantics>
+         <tg xml:lang="myv">
+            <t Contlex="A_ОШ" pos="A">омботькс</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">toista kertaa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="ORD" pos="Qnt">омбоцеде</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">tuhannes</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="ORD_КУДО" pos="Qnt">тёжаце</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">tuhat</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="QNT_КУДО" pos="Qnt">тёжа</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">viides</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="mORD_SMALL"/>
+         </semantics>
+         <tg xml:lang="myv">
+            <t Contlex="ORD" pos="Qnt">ветеце</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">viidettä kertaa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="ORD" pos="Qnt">ветецеде</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">viisi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="mCARD_SMALL"/>
+         </semantics>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_КУДО" pos="Num">вете</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">viisi kertaa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="ITER_" pos="Qnt">ветексть</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">viisitoista</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_КУДО" pos="Num">кеветее</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">viitisen kertaa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="ITER_" pos="Qnt">ветешкаксть</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">vähitellen</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="QNT_ЛАМО" pos="Qnt">аламонь-аламонь</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">vähän</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="QNT_" pos="Qnt">цютькеть</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">vähäsen</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="QNT-DISTR" pos="Qnt">цють-цють</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">yhdeksisenkymmentä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="NUM" pos="Qnt">вейксэньгеменьшка</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">yhdeksän</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="mCARD_SMALL"/>
+         </semantics>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_КУДО" pos="Num">вейксэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">yhdeksäs</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="mORD_SMALL"/>
+         </semantics>
+         <tg xml:lang="myv">
+            <t Contlex="ORD" pos="Qnt">вейксэце</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">yksi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="mCARD_SMALL"/>
+         </semantics>
+         <tg xml:lang="myv">
+            <t Contlex="Cards-1-2" pos="Num">вейке</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">yksi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="QNT-ADN" pos="Qnt">ве</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">yksitoista</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="myv">
+            <t Contlex="NUM_КУДО" pos="Qnt">кевейкее</t>
+         </tg>
+      </mg>
+   </e>
 </r>
