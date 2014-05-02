@@ -1,407 +1,510 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xml:lang="fin">
-<lics xml:space="preserve">
-  <lic xml:lang="en">This code is made available under a Creative Commons Attribution license
-   <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+<r xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd"
+   xml:lang="fin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <lics xml:space="preserve">
+    <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
    You are free to copy, distribute and adapt the work, as long as you always give
    proper attribution using the attribution text below.
    For the full license text, see the link above.</lic>
-  <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+
+    <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
    Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-  <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+
+    <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
    This is NOT a fully styled and published dictionary.
    As such it can and will contain unfinished entries, unpublished entries, 
    entries with objectionable translations, etc. If you find any errors 
-   or want to add more words, download the file, edit it, and send it back to
-   <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote>
-</lics>   
-   <e>
-      <lg>
-         <l pos="Interj">-han/-hän</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="myv">
-            <t Contlex="INTERJ_" pos="Interj">биш</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">XX</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="myv">
-            <t Contlex="VOCATIVE_" pos="Prop">Ведьавакай</t>
-            <t Contlex="VOCATIVE_" pos="Interj">юртавай</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">ahaa</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="myv">
-            <t Contlex="INTERJ_" pos="Interj">а</t>
-            <t Contlex="INTERJ_" pos="Interj">ага</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">ai</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="myv">
-            <t Contlex="INTERJ-IMP" pos="Interj">я</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">ei</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="myv">
-            <t Contlex="INTERJ-NEG" pos="Interj">арась</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">hoi</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="myv">
-            <t Contlex="INTERJ_" pos="Interj">а</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">huh</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="myv">
-            <t Contlex="INTERJ_" pos="Interj">ух</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">hus</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="myv">
-            <t Contlex="INTERJ_" pos="Interj">кшу</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">hyvä on!</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="myv">
-            <t Contlex="INTERJ_" pos="Interj">саты</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">häh</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="myv">
-            <t Contlex="INTERJ_" pos="Interj">а</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">kah</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="myv">
-            <t Contlex="INTERJ_" pos="Interj">ишь</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">kappas</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="myv">
-            <t Contlex="INTERJ_" pos="Interj">ишь</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">kas</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="myv">
-            <t Contlex="INTERJ_" pos="Interj">ишь</t>
-            <t Contlex="INTERJ-IMP" pos="Interj">я</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">kas niin</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="myv">
-            <t Contlex="INTERJ-IMP" pos="Interj">эрь</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">kas tuo tuolla</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="myv">
-            <t Contlex="INTERJ_" pos="Interj">оно</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">kas tuolla</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="myv">
-            <t Contlex="INTERJ_" pos="Interj">оно</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">katsos</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="myv">
-            <t Contlex="INTERJ_" pos="Interj">ишь</t>
-            <t Contlex="INTERJ-IMP" pos="Interj">я</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">kiitos</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="myv">
-            <t Contlex="FORMULAIC_" pos="Interj">сюкпря</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">kyllä</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="myv">
-            <t Contlex="INTERJ_" pos="Interj">ага</t>
-            <t Contlex="INTERJ_" pos="Interj">да</t>
-            <t Contlex="INTERJ_" pos="Interj">виде</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">lopeta!</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="myv">
-            <t Contlex="INTERJ_" pos="Interj">саты</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">no</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="myv">
-            <t Contlex="INTERJ-IMP" pos="Interj">эрде</t>
-            <t Contlex="INTERJ-IMP" pos="Interj">эрь</t>
-            <t Contlex="INTERJ-IMP" pos="Interj">эрьга</t>
-            <t Contlex="INTERJ-IMP" pos="Interj">я</t>
-            <t Contlex="INTERJ-IMP" pos="Interj">ярь</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">oi</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="myv">
-            <t Contlex="INTERJ_" pos="Interj">вай</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">on jo tarpeeksi!</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="myv">
-            <t Contlex="INTERJ_" pos="Interj">саты</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">poikaseni</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="myv">
-            <t Contlex="VOCATIVE_" pos="Interj">цёр</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">päkä-päkä (lampaan kutsuhuuto)</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="myv">
-            <t Contlex="INTERJ_" pos="Interj">барь-барь</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">riittää!</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="myv">
-            <t Contlex="INTERJ-IMP" pos="Interj">пандя</t>
-            <t Contlex="INTERJ_" pos="Interj">саты</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">terve</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="myv">
-            <t Contlex="FORMULAIC_" pos="Interj">шумбрачи</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">voi</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="myv">
-            <t Contlex="INTERJ_" pos="Interj">вай</t>
-            <t Contlex="INTERJ_" pos="Interj">ух</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">älä hosu</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="myv">
-            <t Contlex="INTERJ-IMP" pos="Interj">ужо</t>
-         </tg>
-      </mg>
-   </e>
+   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote>
+  </lics>
+
+  <e>
+    <lg>
+      <l pos="Interj">-han/-hän</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="INTERJ_" pos="Interj">биш</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="VOCATIVE_" pos="Prop">Ведьавакай</t>
+
+        <t Contlex="VOCATIVE_" pos="Interj">юртавай</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">ahaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="INTERJ_" pos="Interj">а</t>
+
+        <t Contlex="INTERJ_" pos="Interj">ага</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">ai</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="INTERJ-IMP" pos="Interj">я</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">ei</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="INTERJ-NEG" pos="Interj">арась</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">hoi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="INTERJ_" pos="Interj">а</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">huh</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="INTERJ_" pos="Interj">ух</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">hus</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="INTERJ_" pos="Interj">кшу</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">hyvä on!</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="INTERJ_" pos="Interj">саты</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">häh</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="INTERJ_" pos="Interj">а</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">kah</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="INTERJ_" pos="Interj">ишь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">kappas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="INTERJ_" pos="Interj">ишь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">kas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="INTERJ_" pos="Interj">ишь</t>
+
+        <t Contlex="INTERJ-IMP" pos="Interj">я</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">kas niin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="INTERJ-IMP" pos="Interj">эрь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">kas tuo tuolla</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="INTERJ_" pos="Interj">оно</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">kas tuolla</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="INTERJ_" pos="Interj">оно</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">katsos</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="INTERJ_" pos="Interj">ишь</t>
+
+        <t Contlex="INTERJ-IMP" pos="Interj">я</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">kiitos</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="FORMULAIC_" pos="Interj">сюкпря</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">kyllä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="INTERJ_" pos="Interj">ага</t>
+
+        <t Contlex="INTERJ_" pos="Interj">да</t>
+
+        <t Contlex="INTERJ_" pos="Interj">виде</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">lopeta!</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="INTERJ_" pos="Interj">саты</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">no</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="INTERJ-IMP" pos="Interj">эрде</t>
+
+        <t Contlex="INTERJ-IMP" pos="Interj">эрь</t>
+
+        <t Contlex="INTERJ-IMP" pos="Interj">эрьга</t>
+
+        <t Contlex="INTERJ-IMP" pos="Interj">я</t>
+
+        <t Contlex="INTERJ-IMP" pos="Interj">ярь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">oi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="INTERJ_" pos="Interj">вай</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">on jo tarpeeksi!</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="INTERJ_" pos="Interj">саты</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">poikaseni</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="VOCATIVE_" pos="Interj">цёр</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">päkä-päkä (lampaan kutsuhuuto)</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="INTERJ_" pos="Interj">барь-барь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">riittää!</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="INTERJ-IMP" pos="Interj">пандя</t>
+
+        <t Contlex="INTERJ_" pos="Interj">саты</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">terve</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="FORMULAIC_" pos="Interj">шумбрачи</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">voi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="INTERJ_" pos="Interj">вай</t>
+
+        <t Contlex="INTERJ_" pos="Interj">ух</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">älä hosu</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="INTERJ-IMP" pos="Interj">ужо</t>
+      </tg>
+    </mg>
+  </e>
 </r>
