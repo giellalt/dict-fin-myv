@@ -22,6 +22,22 @@
 
   <e>
     <lg>
+      <l pos="Pron">ei mistään syystä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="Pron-Indef" pos="Pron">мезекскак</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Pron">he</l>
 
       <stg>
@@ -160,6 +176,38 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="Pron-Pers" pos="Pron">эстензэ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">hänen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="PRON-PERS-SG3" pos="Pron">сонзэ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">hänet</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="PRON-PERS-SG3" pos="Pron">сонзэ</t>
       </tg>
     </mg>
   </e>
@@ -569,7 +617,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="PRON_" pos="Pron">мезекс</t>
+        <t Contlex="PRON-INTERR-OBJ_МЕЗЕ_IS-TRA" pos="Pron">мезекс</t>
       </tg>
     </mg>
   </e>
@@ -585,9 +633,11 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="PRON_" pos="Pron">мезекс</t>
+        <t Contlex="PRON-INTERR-OBJ_МЕЗЕ_IS-PL-NOM-INDEF" pos="Pron">мезть</t>
 
-        <t Contlex="PRON_" pos="Pron">мекс</t>
+        <t Contlex="PRON-INTERR-OBJ_МЕЗЕ_IS-TRA" pos="Pron">мекс</t>
+
+        <t Contlex="PRON-INTERR-OBJ_МЕЗЕ_IS-SG-NOM-DEF" pos="Pron">мейсь</t>
       </tg>
     </mg>
   </e>
@@ -812,6 +862,22 @@
 
   <e>
     <lg>
+      <l pos="Pron">mistä syystä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="PRON-INTERR-OBJ_МЕЗЕ_IS-SG-NOM-DEF" pos="Pron">мейсь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Pron">mitä</l>
 
       <stg>
@@ -822,6 +888,24 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="PRON-INTERR-OBJ_МЕЗЕ" pos="Pron">мезе</t>
+
+        <t Contlex="PRON-INTERR-OBJ_МЕЗЕ_IS-PL-NOM-INDEF" pos="Pron">мезть</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">mitä varten</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="PRON-INTERR-OBJ_МЕЗЕ_IS-TRA" pos="Pron">мезекс</t>
       </tg>
     </mg>
   </e>
@@ -886,6 +970,24 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="PRON-IS-DEM_ИСТЯМО" pos="Pron">истямо</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">sen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="PRON-PERS-SG3" pos="Pron">сонзэ</t>
+
+        <t Contlex="PRON-PERS-SG3" pos="Pron">сонзэ</t>
       </tg>
     </mg>
   </e>
@@ -982,6 +1084,22 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="PRON-PERS-PL2" pos="Pron">тынь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">te itse</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="PRON-PERS-PL2_IS-INTENSIVE" pos="Pron">тынсь</t>
       </tg>
     </mg>
   </e>

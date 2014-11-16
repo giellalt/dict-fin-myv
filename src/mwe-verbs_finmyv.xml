@@ -1,0 +1,2443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd"
+   xml:lang="fin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <lics xml:space="preserve">
+    <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+   You are free to copy, distribute and adapt the work, as long as you always give
+   proper attribution using the attribution text below.
+   For the full license text, see the link above.</lic>
+
+    <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+   Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+
+    <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+   This is NOT a fully styled and published dictionary.
+   As such it can and will contain unfinished entries, unpublished entries, 
+   entries with objectionable translations, etc. If you find any errors 
+   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote>
+  </lics>
+
+  <e>
+    <lg>
+      <l pos="V" val="IV">ajatella</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="v" pos="V" val="IV">арсемс-теемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">alistaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">кедь алов саемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">antaa elämänsä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">пря путомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">antaa kättä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">кедь максомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">antautua</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">пря максомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V" val="IV">arkailla</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="v" pos="V" val="IV">виздемс-пелемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">asustella</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="v" pos="V">эрямс-аштемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">auttaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">кедь кирдемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">ehdottaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">предложения теемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">elättää (toivetta, ajatusta)</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">мель кирдемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V" val="IV">elää</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="v" pos="V" val="IV">эрямс-аштемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">esittää</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">предложения теемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">halveksia</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="v" pos="V">ракамс-пейдемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">helliä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">мель кирдемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">hengästyä juoksusta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">чиемс оймень пиемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">hiljetä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">општ: општ меремс, општ теемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">hoitaa metsää</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">вирь ваномс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">horjahtaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">тарцк: тарцк теемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">humista (korvissa)</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">ций-буй меремс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">häipyä silmien edestä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">сельме икельде туемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">hätkähtää</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">тарцк: тарцк теемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">ikävystyttää</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">мель мольстемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">ikävystyä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">мель молемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">innoittaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">ойме максомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">istua</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">озадо аштемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">itkeä kovasti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">люйсэ: люйсэ авардемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">joutua ansaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">капканс понгомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">juosta minkä kintuista pääsee</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">цяболонь каязь чиемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V" val="IV">kasvaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="v" pos="V" val="IV">чачомс-касомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">kasvattaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="V_PAIRS" pos="V">трямс-андомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V" val="IV">kasvattaa (lapsia)</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="v" pos="V" val="IV">ваномс-кастомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V" val="IV">katsoa ja miettiä asiaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="v" pos="V" val="IV">ваномс-теемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">kehottaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">предложения теемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">keittää keittoa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">ям пидемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">kestitä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="V_PAIRS" pos="V">андомс-симдемс</t>
+
+        <t Contlex="V_" pos="V">симдемс-каванямс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">kestää koetus</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="V_" pos="V">кирдемс испытания</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">kieltää</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="V_" pos="V">а меремс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">kiinnittää huomiota</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">мель путомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">kitua</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="v" pos="V">пиемс-паломс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">kohottaa mieltä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">мель кепедемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">korjata</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="v" pos="V">витемс-петемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V" val="IV">korjata</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="v" pos="V" val="IV">витемс-теемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V" val="IV">kuihtua</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="v" pos="V" val="IV">резэмс-паломс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">kulkea vapisten</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">дерьсэ: дерьсэ молемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">kunnioittaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">мель ванномс</t>
+
+        <t Contlex="" pos="V">мель ваномс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">kyllästyttää</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">мель мольстемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">kyllästyä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">мель молемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">kyntää ja kylvää</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="v" pos="V">сокамс-видемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V" val="IV">kärsiä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="v" pos="V" val="IV">пиемс-паломс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">kärsiä nälkää</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">вачо пеке кирдемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V" val="IV">käsitellä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="v" pos="V" val="IV">кортамс-теемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V" val="IV">käydä kauppaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="v" pos="V" val="IV">рамамс-миемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">käyttää puheenvuoroa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">вал меремс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">lainata</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">заём саемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V" val="IV">laittaa ruokaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="v" pos="V" val="IV">пидемс-панемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">lausua mielipiteensä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">вал меремс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">liehakoida</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">мель ваномс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">lipaista</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">нолшт: нолшт теемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">lorista</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">жольсэ: жольсэ чудемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">maata</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="V_" pos="V">аштемс мадезь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">mennä vieraisille</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">гостекс молемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">merkitä lainaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="V_" pos="V">заёмс сёрмадомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">miettiä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="v" pos="V">арсемс-теемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">muistaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">мельс ледемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">murehtia</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">мельсапаросо аштемс</t>
+
+        <t Contlex="v" pos="V">нурьгемс-авардемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V" val="IV">nauraa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="v" pos="V" val="IV">ракамс-пейдемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">neuvoa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">мельс путомс</t>
+
+        <t Contlex="" pos="V">превс путомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">nostaa jalkeille</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">пильге лангс стявтомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">nostaa jaloille</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">пильге лангс стявтомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">nostaa päätä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">пря кепедемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">nostattaa kapina</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">пря кепедемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">nuolaista</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">нолшт: нолшт теемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">nykiä, суром ноцк теи sormeani nykii</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">ноцк: ноцк теемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">nähdä läpi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">пачк неемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">näyttäytyä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">пря невтемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">olla</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="v" pos="V">эрямс-аштемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">olla hermostunut</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">апаросо аштемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">olla huonolla tuulella</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">мельсапаросо аштемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">olla hyvällä tuulella</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">мельспаросо аштемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">olla lapsenvahtina</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">пакша ваномс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">olla mieliksi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">мель ванномс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">olla rauhaton</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">апаросо аштемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">opastaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">мельс путомс</t>
+
+        <t Contlex="" pos="V">превс путомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">ottaa kädestä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">кедь педе саемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">ottaa lainaksi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">заём саемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">ottaa mitat</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">мерка саемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">pahoittaa mieli, мель кастомс kohottaa mieltä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">мель кольстемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">paimentaa karjaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">стада ваномс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">painaa mieleen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">мельс путомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V" val="IV">pakottaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="v" pos="V" val="IV">ускомс-таргатомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">palaa rätisten</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">сяторсо: сяторсо паломс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">palauttaa (entiselleen), арась
+        оймавкс не пильгтненень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">пильге лангс стявтомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">paleltua läpikotaisin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">пачк кельмемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">palkkautua</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">пря сиведемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">parkua</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">люйсэ: люйсэ авардемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">perustaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">юр путомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">pistää silmään</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">сельмс эцемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">pitää arvossa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">мель ваномс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">pitää jkn vallan alaisena</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">кедь ало кирдемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V" val="IV">pitää kekkerit</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="V_PAIRS" pos="V" val="IV">ярсамс-симемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">pohtia</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="v" pos="V">кортамс-теемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">polttaa kätensä kiehuvalla vedellä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">лаки ведьсэ кедь пидемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">pudota katolta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">кудо лангсто сяворемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">puolustaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">вайгель каямс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V" val="IV">pyryttää</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="v" pos="V" val="IV">юргомс-вешкемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">pyrytä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="v" pos="V">юргомс-вешкемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">pyytää rahaa lainaksi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="V_" pos="V">заёмс вешемс ярмакт</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">pyöriä vinhasti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="v" pos="V">юргомс-вешкемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">päättää</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">мель путомс</t>
+
+        <t Contlex="" pos="V">резолюция теемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V" val="IV">rakastaa suuresti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="v" pos="V" val="IV">вечкемс-кельгемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">ripustaa seinälle</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">стенас поводемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V" val="IV">sairastaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="v" pos="V" val="IV">колемс-паломс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">seisoa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="V_" pos="V">аштемс озадо</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">seurata</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">мельга молемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">sitoa hevonen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">лишме поводемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">soida</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">ций-буй меремс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">solista</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">жольсэ: жольсэ чудемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">sujua hyvin, тевтне ювсо молить työt sujuvat hyvin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">ювсо молемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">suorittaa tutkinto</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="V_" pos="V">максомс зачёт</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V" val="IV">sureksia</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="v" pos="V" val="IV">нурьгемс-авардемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">säpsähtää</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">тарцк: тарцк теемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">säätää</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">мель путомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">tapella verissä päin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">верде верьс тюремс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">tarjota</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">предложения теемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">tarttua käteen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">кедь педе саемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">tehdä omalla tavallaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">эсь мельсэ теемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V" val="IV">tehdä peltotöitä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="v" pos="V" val="IV">сокамс-видемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">tehdä päätös</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">резолюция теемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">tehdä tili</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">отчёт максомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">tehdä toimintakertomus</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">отчёт максомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">tehdä yhdessä silmänräpäyksessä, сельме-чама a неят on
+        pilkkopimeää</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">сельмень кончтамс-теемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">tervehtiä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">сюкпря максомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">toivoa, макшиямс lahota, mädäntyä; kuivettua, kovettua</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">мель максомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">tukea</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">кедь кирдемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">tulla mieleen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">мельс ледемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">tuskailla</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="v" pos="V">пиемс-паломс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">tyydyttää</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">мель витемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">tyyntyä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">општ: општ меремс, општ теемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">tyytyä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">мель витемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">vaalia</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">мель кирдемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">vaieta, ульцясонть општ мери ulkona ilma
+        tyyntyy</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">општ: општ меремс, општ теемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V" val="IV">valmistaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="v" pos="V" val="IV">витемс-петемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">valua virtanaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">тюрьсэ: тюрьсэ чудемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">varttua</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="v" pos="V">чачомс-касомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">vastustaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">каршо молемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">vavahtaa (odottamatta)</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">тарцк: тарцк теемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">vivahtaa keltaiseen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">ожолт: ожолт меремс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">vivahtaa valkealle</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">ашолк: ашолк молемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">yrittää olla mieliksi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">мель ваномс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">äänestää</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="" pos="V">вайгель каямс</t>
+
+        <t Contlex="" pos="V">вайгель максомс</t>
+      </tg>
+    </mg>
+  </e>
+</r>

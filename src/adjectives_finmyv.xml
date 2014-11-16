@@ -7066,6 +7066,22 @@
 
   <e>
     <lg>
+      <l pos="A">syyllinen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="A_КУДО" pos="A">чумо</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="A">syyläinen</l>
 
       <stg>

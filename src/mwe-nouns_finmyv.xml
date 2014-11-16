@@ -22,7 +22,7 @@
 
   <e>
     <lg>
-      <l pos="Pcle">-han/-hän</l>
+      <l pos="N">aviopari</l>
 
       <stg>
         <st/>
@@ -31,14 +31,18 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="INTERJ_" pos="Interj">биш</t>
+        <t Contlex="N_КУДО-PL" pos="N">атят-бабат</t>
+
+        <t Contlex="" pos="N">козяйкат-мирдть</t>
+
+        <t Contlex="" pos="N">мирдть-козяйкат</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">XX</l>
+      <l pos="N">etusormi</l>
 
       <stg>
         <st/>
@@ -47,16 +51,14 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="VOCATIVE_" pos="Prop">Ведьавакай</t>
-
-        <t Contlex="VOCATIVE_" pos="Interj">юртавай</t>
+        <t Contlex="N_КАЛ" pos="N">невтема сур</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Interj">ahaa</l>
+      <l pos="N">hapantunut maito</l>
 
       <stg>
         <st/>
@@ -65,16 +67,16 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="INTERJ_" pos="Interj">а</t>
+        <t Contlex="N_КУДО" pos="N">пурнезь ловсо</t>
 
-        <t Contlex="INTERJ_" pos="Interj">ага</t>
+        <t Contlex="N_КУДО" pos="N">режнезь ловсо</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Interj">ai</l>
+      <l pos="N">höyrykone</l>
 
       <stg>
         <st/>
@@ -83,14 +85,14 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="INTERJ-IMP" pos="Interj">я</t>
+        <t Contlex="N_КАЛ" pos="N">naровой двигатель</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Interj">ei</l>
+      <l pos="N">karkausvuosi</l>
 
       <stg>
         <st/>
@@ -99,14 +101,14 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="INTERJ-NEG" pos="Interj">арась</t>
+        <t Contlex="N_ИЕ" pos="N">високосной ие</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Interj">hoi</l>
+      <l pos="N">kasvattilapsi</l>
 
       <stg>
         <st/>
@@ -115,14 +117,14 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="INTERJ_" pos="Interj">а</t>
+        <t Contlex="N_ОШ" pos="N">трянь эйкакш</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Interj">huh</l>
+      <l pos="N">kehruu välineet</l>
 
       <stg>
         <st/>
@@ -131,14 +133,14 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="INTERJ_" pos="Interj">ух</t>
+        <t Contlex="" pos="N">штереть-пакарть</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Interj">hus</l>
+      <l pos="N">keskisormi</l>
 
       <stg>
         <st/>
@@ -147,14 +149,14 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="INTERJ_" pos="Interj">кшу</t>
+        <t Contlex="N_КАЛ" pos="N">куншкасо сур</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Interj">hyvä on!</l>
+      <l pos="N">kuopus</l>
 
       <stg>
         <st/>
@@ -163,14 +165,14 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="INTERJ_" pos="Interj">саты</t>
+        <t Contlex="N_ОШ" pos="N">очконь нардавкс</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Interj">häh</l>
+      <l pos="N">kyy</l>
 
       <stg>
         <st/>
@@ -179,14 +181,16 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="INTERJ_" pos="Interj">а</t>
+        <t Contlex="N_КУДО" pos="N">раужо ёзнэ</t>
+
+        <t Contlex="" pos="N">раужо ёзнэ</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Interj">kah</l>
+      <l pos="N">kärsimys, tuskailu, kituminen</l>
 
       <stg>
         <st/>
@@ -195,14 +199,14 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="INTERJ_" pos="Interj">ишь</t>
+        <t Contlex="" pos="N">пиема-палома</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Interj">kappas</l>
+      <l pos="N">maitotuotteet</l>
 
       <stg>
         <st/>
@@ -211,14 +215,14 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="INTERJ_" pos="Interj">ишь</t>
+        <t Contlex="" pos="N">ойть-велькст</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Interj">kas</l>
+      <l pos="N">naaraspentu</l>
 
       <stg>
         <st/>
@@ -227,16 +231,14 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="INTERJ_" pos="Interj">ишь</t>
-
-        <t Contlex="INTERJ-IMP" pos="Interj">я</t>
+        <t Contlex="N_ОШ" pos="N">авака левкс</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Interj">kas niin</l>
+      <l pos="N">oikea puoli</l>
 
       <stg>
         <st/>
@@ -245,14 +247,14 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="INTERJ-IMP" pos="Interj">эрь</t>
+        <t Contlex="N_КУДО" pos="N">вить бока</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Interj">kas tuo tuolla</l>
+      <l pos="N">ottolapsi</l>
 
       <stg>
         <st/>
@@ -261,14 +263,14 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="INTERJ_" pos="Interj">оно</t>
+        <t Contlex="N_ОШ" pos="N">трянь эйкакш</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Interj">kas tuolla</l>
+      <l pos="N">pankkipääoma</l>
 
       <stg>
         <st/>
@@ -277,14 +279,14 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="INTERJ_" pos="Interj">оно</t>
+        <t Contlex="N_КАЛ" pos="N">банксо капитал</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Interj">katsos</l>
+      <l pos="N">piimä</l>
 
       <stg>
         <st/>
@@ -293,16 +295,14 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="INTERJ_" pos="Interj">ишь</t>
-
-        <t Contlex="INTERJ-IMP" pos="Interj">я</t>
+        <t Contlex="N_КУДО" pos="N">чапамо ловсо</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Interj">kiitos</l>
+      <l pos="N">puolisot</l>
 
       <stg>
         <st/>
@@ -311,14 +311,18 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="FORMULAIC_" pos="Interj">сюкпря</t>
+        <t Contlex="N_КУДО-PL" pos="N">атят-бабат</t>
+
+        <t Contlex="" pos="N">козяйкат-мирдть</t>
+
+        <t Contlex="" pos="N">мирдть-козяйкат</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Interj">kyllä</l>
+      <l pos="N">pyssynsuu</l>
 
       <stg>
         <st/>
@@ -327,18 +331,14 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="INTERJ_" pos="Interj">ага</t>
-
-        <t Contlex="INTERJ_" pos="Interj">да</t>
-
-        <t Contlex="INTERJ_" pos="Interj">виде</t>
+        <t Contlex="N_КУДО" pos="N">pyжиянь дула</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Interj">lopeta!</l>
+      <l pos="N">raskasteollisuus</l>
 
       <stg>
         <st/>
@@ -347,14 +347,14 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="INTERJ_" pos="Interj">саты</t>
+        <t Contlex="N_КУДО" pos="N">стака индустрия</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Interj">no</l>
+      <l pos="N">rikkihappo</l>
 
       <stg>
         <st/>
@@ -363,22 +363,14 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="INTERJ-IMP" pos="Interj">эрде</t>
-
-        <t Contlex="INTERJ-IMP" pos="Interj">эрь</t>
-
-        <t Contlex="INTERJ-IMP" pos="Interj">эрьга</t>
-
-        <t Contlex="INTERJ-IMP" pos="Interj">я</t>
-
-        <t Contlex="INTERJ-IMP" pos="Interj">ярь</t>
+        <t Contlex="N_КУДО" pos="N">серной кислота</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Interj">oi</l>
+      <l pos="N">sakkilauta</l>
 
       <stg>
         <st/>
@@ -387,14 +379,14 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="INTERJ_" pos="Interj">вай</t>
+        <t Contlex="N_КУДО" pos="N">шахматной доска</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Interj">on jo tarpeeksi!</l>
+      <l pos="N">sisälmykset</l>
 
       <stg>
         <st/>
@@ -403,14 +395,14 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="INTERJ_" pos="Interj">саты</t>
+        <t Contlex="N_КАЛ" pos="N">потмот-сюлот</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Interj">poikaseni</l>
+      <l pos="N">sulhasen puolelta tulleen hääväen johtaja</l>
 
       <stg>
         <st/>
@@ -419,14 +411,14 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="VOCATIVE_" pos="Interj">цёр</t>
+        <t Contlex="N_КУДО" pos="N">покш куда</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Interj">päkä-päkä (lampaan kutsuhuuto)</l>
+      <l pos="N">syntymäpäivä</l>
 
       <stg>
         <st/>
@@ -435,14 +427,14 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="INTERJ_" pos="Interj">барь-барь</t>
+        <t Contlex="N_КУДО" pos="N">чачома чи</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Interj">riittää!</l>
+      <l pos="N">töllistelijä</l>
 
       <stg>
         <st/>
@@ -451,16 +443,18 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="INTERJ-IMP" pos="Interj">пандя</t>
+        <tCtn>
+          <t Contlex="N_ПАНГО" pos="N">автень курго</t>
 
-        <t Contlex="INTERJ_" pos="Interj">саты</t>
+          <re>suu ammollaan</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Interj">terve</l>
+      <l pos="N">urheilukerho</l>
 
       <stg>
         <st/>
@@ -469,14 +463,14 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="FORMULAIC_" pos="Interj">шумбрачи</t>
+        <t Contlex="N_ЛАК" pos="N">физкультурань кружок</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Interj">voi</l>
+      <l pos="N">uusi vuosi</l>
 
       <stg>
         <st/>
@@ -485,16 +479,14 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="INTERJ_" pos="Interj">вай</t>
-
-        <t Contlex="INTERJ_" pos="Interj">ух</t>
+        <t Contlex="N_ИЕ" pos="N">од ие</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Interj">älä hosu</l>
+      <l pos="N">vallankumousliike</l>
 
       <stg>
         <st/>
@@ -503,7 +495,55 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="INTERJ-IMP" pos="Interj">ужо</t>
+        <t Contlex="N_КУДО" pos="N">революционной движения</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">vasen puoli</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="N_КУДО" pos="N">керш бока</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">äitiinsä tullut</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="N_ОШ" pos="N">авака левкс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">äitinsä kaltainen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="N_ОШ" pos="N">авака левкс</t>
       </tg>
     </mg>
   </e>

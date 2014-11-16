@@ -176,28 +176,6 @@
 
   <e>
     <lg>
-      <l pos="N">(auran)vannas</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <semantics>
-        <sem class="INANIMATE"/>
-
-        <sem class="COUNT"/>
-      </semantics>
-
-      <tg xml:lang="myv">
-        <t Contlex="N_КАЛ" pos="N">лемех</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="N">(bot.) kielo</l>
 
       <stg>
@@ -323,7 +301,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">цепке</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">цепке</t>
       </tg>
     </mg>
   </e>
@@ -2477,7 +2455,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">кирякшчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">кирякшчи</t>
       </tg>
     </mg>
   </e>
@@ -2895,7 +2873,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">фонарне</t>
+        <t Contlex="N_ВЕЛЕ_IS-НЕ-DIM" pos="N">фонарне</t>
       </tg>
     </mg>
   </e>
@@ -5047,7 +5025,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">валске</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">валске</t>
       </tg>
     </mg>
   </e>
@@ -5069,7 +5047,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">валске</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">валске</t>
       </tg>
     </mg>
   </e>
@@ -5819,7 +5797,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">жаднойчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">жаднойчи</t>
       </tg>
     </mg>
   </e>
@@ -5841,7 +5819,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">тесначи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">тесначи</t>
       </tg>
     </mg>
   </e>
@@ -6179,7 +6157,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">юткочи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">юткочи</t>
       </tg>
     </mg>
   </e>
@@ -6701,7 +6679,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">вейкине</t>
+        <t Contlex="N_ВЕЛЕ_IS-НЕ-DIM" pos="N">вейкине</t>
       </tg>
     </mg>
   </e>
@@ -6717,7 +6695,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">вейкине</t>
+        <t Contlex="N_ВЕЛЕ_IS-НЕ-DIM" pos="N">вейкине</t>
       </tg>
     </mg>
   </e>
@@ -6733,7 +6711,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">вейкине</t>
+        <t Contlex="N_ВЕЛЕ_IS-НЕ-DIM" pos="N">вейкине</t>
       </tg>
     </mg>
   </e>
@@ -6749,7 +6727,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">миле</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">миле</t>
       </tg>
     </mg>
   </e>
@@ -8117,7 +8095,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">алкачи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">алкачи</t>
       </tg>
     </mg>
   </e>
@@ -11001,7 +10979,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">лезэ</t>
+        <t Contlex="N_ПИЗЭ" pos="N">лезэ</t>
       </tg>
     </mg>
   </e>
@@ -11387,7 +11365,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">стякочи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">стякочи</t>
       </tg>
     </mg>
   </e>
@@ -13987,7 +13965,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">ателье</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">ателье</t>
       </tg>
     </mg>
   </e>
@@ -14280,6 +14258,28 @@
 
   <e>
     <lg>
+      <l pos="N">auranvannas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="INANIMATE"/>
+
+        <sem class="COUNT"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="N_КАЛ" pos="N">лемех</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">auringonkukka</l>
 
       <stg>
@@ -14289,7 +14289,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">титикше</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">титикше</t>
       </tg>
     </mg>
   </e>
@@ -14337,7 +14337,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО-LAT" pos="N">чи</t>
+        <t Contlex="N_ВЕЛЕ-LAT" pos="N">чи</t>
       </tg>
     </mg>
   </e>
@@ -14864,7 +14864,7 @@
     <mg>
       <tg xml:lang="myv">
         <tCtn>
-          <t Contlex="N_КУДО" pos="N">аваксчи</t>
+          <t Contlex="N_ВЕЛЕ" pos="N">аваксчи</t>
 
           <re>naisesta
 </re>
@@ -14884,7 +14884,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N-KIN_КУДО" pos="N">альне</t>
+        <t Contlex="N-KIN_ВЕЛЕ_IS-НЕ-DIM" pos="N">альне</t>
       </tg>
     </mg>
   </e>
@@ -14942,7 +14942,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">муеське</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">муеське</t>
       </tg>
     </mg>
   </e>
@@ -16362,7 +16362,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">лемтеме</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">лемтеме</t>
       </tg>
     </mg>
   </e>
@@ -17804,7 +17804,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">икельце</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">икельце</t>
       </tg>
     </mg>
   </e>
@@ -19532,7 +19532,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">зверне</t>
+        <t Contlex="N_ВЕЛЕ_IS-НЕ-DIM" pos="N">зверне</t>
       </tg>
     </mg>
   </e>
@@ -19910,7 +19910,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">зверне</t>
+        <t Contlex="N_ВЕЛЕ_IS-НЕ-DIM" pos="N">зверне</t>
       </tg>
     </mg>
   </e>
@@ -21884,7 +21884,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">васнятке</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">васнятке</t>
       </tg>
     </mg>
   </e>
@@ -23052,7 +23052,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">икельце</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">икельце</t>
       </tg>
     </mg>
   </e>
@@ -23304,7 +23304,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">васолксчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">васолксчи</t>
       </tg>
     </mg>
   </e>
@@ -25656,7 +25656,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">сянгине</t>
+        <t Contlex="N_ВЕЛЕ_IS-НЕ-DIM" pos="N">сянгине</t>
       </tg>
     </mg>
   </e>
@@ -26156,7 +26156,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">чине</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">чине</t>
       </tg>
     </mg>
   </e>
@@ -27546,7 +27546,7 @@
 
         <t Contlex="N_КАЛ" pos="N">пакарь</t>
 
-        <t Contlex="N_КУДО" pos="N">сэме</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">сэме</t>
       </tg>
     </mg>
   </e>
@@ -27956,7 +27956,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">шерже</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">шерже</t>
       </tg>
     </mg>
   </e>
@@ -28488,7 +28488,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">нардевтемечи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">нардевтемечи</t>
       </tg>
     </mg>
   </e>
@@ -29014,7 +29014,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">лавшочи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">лавшочи</t>
       </tg>
     </mg>
   </e>
@@ -29074,7 +29074,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">буе</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">буе</t>
 
         <t Contlex="N_КУДО" pos="N">плема</t>
       </tg>
@@ -29092,7 +29092,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">тикше</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">тикше</t>
       </tg>
     </mg>
   </e>
@@ -29450,9 +29450,9 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">эле</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">эле</t>
 
-        <t Contlex="N_КУДО" pos="N">эле</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">эле</t>
       </tg>
     </mg>
   </e>
@@ -30280,7 +30280,7 @@
       <tg xml:lang="myv">
         <t Contlex="N_КУДО" pos="N">алаша</t>
 
-        <t Contlex="N_КУДО" pos="N">лишме</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">лишме</t>
       </tg>
     </mg>
   </e>
@@ -30464,7 +30464,7 @@
       <tg xml:lang="myv">
         <t Contlex="N_КУДО" pos="N">човаля</t>
 
-        <t Contlex="N_КУДО" pos="N">човине</t>
+        <t Contlex="N_ВЕЛЕ_IS-НЕ-DIM" pos="N">човине</t>
       </tg>
     </mg>
   </e>
@@ -30648,7 +30648,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">ведьме</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">ведьме</t>
 
         <t Contlex="N_КУДО" pos="N">кшна</t>
 
@@ -30948,7 +30948,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">сэтьмечи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">сэтьмечи</t>
       </tg>
     </mg>
   </e>
@@ -31150,7 +31150,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">питне</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">питне</t>
       </tg>
     </mg>
   </e>
@@ -31516,7 +31516,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">пелькске</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">пелькске</t>
       </tg>
     </mg>
   </e>
@@ -31688,7 +31688,7 @@
       <tg xml:lang="myv">
         <t Contlex="N_КУДО" pos="N">тоща</t>
 
-        <t Contlex="N_КУДО" pos="N">човине</t>
+        <t Contlex="N_ВЕЛЕ_IS-НЕ-DIM" pos="N">човине</t>
       </tg>
     </mg>
   </e>
@@ -32578,7 +32578,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">кальметикше</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">кальметикше</t>
       </tg>
     </mg>
   </e>
@@ -32718,7 +32718,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">пуре</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">пуре</t>
       </tg>
     </mg>
   </e>
@@ -33350,7 +33350,7 @@
       <tg xml:lang="myv">
         <t Contlex="N_КУДО" pos="N">беряжа</t>
 
-        <t Contlex="N_КУДО" pos="N">берякшке</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">берякшке</t>
       </tg>
     </mg>
   </e>
@@ -33763,7 +33763,43 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="N_ОШ" pos="N">лекш</t>
+      </tg>
+    </mg>
+  </e>
 
+  <e>
+    <lg>
+      <l pos="N">huurre</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="INANIMATE"/>
+
+        <sem class="COUNT"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="N_КУДО" pos="N">лекше</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">huurre</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
         <t Contlex="N_ОШ" pos="N">тарькс</t>
       </tg>
     </mg>
@@ -34330,9 +34366,9 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">вадрячи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">вадрячи</t>
 
-        <t Contlex="N_КУДО" pos="N">парочи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">парочи</t>
       </tg>
     </mg>
   </e>
@@ -34668,7 +34704,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">лезэ</t>
+        <t Contlex="N_ПИЗЭ" pos="N">лезэ</t>
       </tg>
     </mg>
   </e>
@@ -34772,7 +34808,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">сэме</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">сэме</t>
       </tg>
     </mg>
   </e>
@@ -36348,7 +36384,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">тошначи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">тошначи</t>
       </tg>
     </mg>
   </e>
@@ -36447,7 +36483,7 @@
 
   <e>
     <lg>
-      <l pos="N">illalla</l>
+      <l pos="Adv">illalla</l>
 
       <stg>
         <st/>
@@ -36455,14 +36491,8 @@
     </lg>
 
     <mg>
-      <semantics>
-        <sem class="INANIMATE"/>
-
-        <sem class="COUNT"/>
-      </semantics>
-
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">чокшне</t>
+        <t Contlex="ADV-TEMP_" pos="Adv">чокшне</t>
       </tg>
     </mg>
   </e>
@@ -37318,7 +37348,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">чокшне</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">чокшне</t>
       </tg>
     </mg>
   </e>
@@ -38882,6 +38912,22 @@
 
   <e>
     <lg>
+      <l pos="N">isoveli</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="N_АЙ_KINVOC" pos="N">леляй</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">isoäiti</l>
 
       <stg>
@@ -39055,7 +39101,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">тетяксчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">тетяксчи</t>
       </tg>
     </mg>
   </e>
@@ -39161,7 +39207,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">азорксчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">азорксчи</t>
       </tg>
     </mg>
   </e>
@@ -39612,7 +39658,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">наянчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">наянчи</t>
       </tg>
     </mg>
   </e>
@@ -39634,7 +39680,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">упрямчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">упрямчи</t>
       </tg>
     </mg>
   </e>
@@ -39966,7 +40012,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">сыре</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">сыре</t>
       </tg>
     </mg>
   </e>
@@ -41664,7 +41710,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">эрьвейке</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">эрьвейке</t>
       </tg>
     </mg>
   </e>
@@ -41744,7 +41790,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">эрьвейке</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">эрьвейке</t>
       </tg>
     </mg>
   </e>
@@ -42407,7 +42453,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">юткочи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">юткочи</t>
       </tg>
     </mg>
   </e>
@@ -42571,7 +42617,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">праздникчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">праздникчи</t>
       </tg>
     </mg>
   </e>
@@ -43971,7 +44017,7 @@
       <tg xml:lang="myv">
         <t Contlex="N_КАЛ" pos="N">след</t>
 
-        <t Contlex="N_КУДО" pos="N">чельке</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">чельке</t>
       </tg>
     </mg>
   </e>
@@ -44489,7 +44535,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">превейчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">превейчи</t>
       </tg>
     </mg>
   </e>
@@ -45929,7 +45975,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">ёмаське</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">ёмаське</t>
       </tg>
     </mg>
   </e>
@@ -46103,7 +46149,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">кофе</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">кофе</t>
       </tg>
     </mg>
   </e>
@@ -46179,7 +46225,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">вигине</t>
+        <t Contlex="N_ВЕЛЕ_IS-НЕ-DIM" pos="N">вигине</t>
       </tg>
     </mg>
   </e>
@@ -47257,7 +47303,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">палкине</t>
+        <t Contlex="N_ВЕЛЕ_IS-НЕ-DIM" pos="N">палкине</t>
       </tg>
     </mg>
   </e>
@@ -48023,7 +48069,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">сурсеме</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">сурсеме</t>
       </tg>
     </mg>
   </e>
@@ -48193,7 +48239,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">пекшеёзнэ</t>
+        <t Contlex="N_ПИЗЭ_IS-НЕ-DIM" pos="N">пекшеёзнэ</t>
       </tg>
     </mg>
   </e>
@@ -51602,7 +51648,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">тингепире</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">тингепире</t>
       </tg>
     </mg>
   </e>
@@ -52376,7 +52422,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">ванстомачи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">ванстомачи</t>
       </tg>
     </mg>
   </e>
@@ -52932,7 +52978,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">васолксчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">васолксчи</t>
       </tg>
     </mg>
   </e>
@@ -53032,7 +53078,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">кашне</t>
+        <t Contlex="N_ВЕЛЕ_IS-НЕ-DIM" pos="N">кашне</t>
       </tg>
     </mg>
   </e>
@@ -53070,7 +53116,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">кашне</t>
+        <t Contlex="N_ВЕЛЕ_IS-НЕ-DIM" pos="N">кашне</t>
       </tg>
     </mg>
   </e>
@@ -53162,7 +53208,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">сиве</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">сиве</t>
       </tg>
     </mg>
   </e>
@@ -53228,7 +53274,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">мазыйчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">мазыйчи</t>
       </tg>
     </mg>
   </e>
@@ -54294,7 +54340,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">штере</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">штере</t>
       </tg>
     </mg>
   </e>
@@ -54584,7 +54630,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">наянчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">наянчи</t>
       </tg>
     </mg>
   </e>
@@ -54888,7 +54934,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">штеме</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">штеме</t>
       </tg>
     </mg>
   </e>
@@ -55790,7 +55836,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">палкине</t>
+        <t Contlex="N_ВЕЛЕ_IS-НЕ-DIM" pos="N">палкине</t>
       </tg>
     </mg>
   </e>
@@ -56366,7 +56412,7 @@
       <tg xml:lang="myv">
         <t Contlex="N_КУДО" pos="N">кикерька</t>
 
-        <t Contlex="N_КУДО" pos="N">кире</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">кире</t>
 
         <t Contlex="N_КАЛ" pos="N">коцён</t>
 
@@ -56554,7 +56600,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">пелеве</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">пелеве</t>
       </tg>
     </mg>
   </e>
@@ -56730,7 +56776,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">нардевтемечи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">нардевтемечи</t>
       </tg>
     </mg>
   </e>
@@ -56746,7 +56792,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">кеме</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">кеме</t>
       </tg>
     </mg>
   </e>
@@ -56798,7 +56844,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">рисьме</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">рисьме</t>
       </tg>
     </mg>
   </e>
@@ -56980,7 +57026,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">шождачи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">шождачи</t>
       </tg>
     </mg>
   </e>
@@ -57018,7 +57064,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">шождыне</t>
+        <t Contlex="N_ВЕЛЕ_IS-НЕ-DIM" pos="N">шождыне</t>
       </tg>
     </mg>
   </e>
@@ -59810,7 +59856,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">артке</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">артке</t>
       </tg>
     </mg>
   </e>
@@ -60054,7 +60100,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">узере</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">узере</t>
       </tg>
     </mg>
   </e>
@@ -60250,7 +60296,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">скупойчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">скупойчи</t>
       </tg>
     </mg>
   </e>
@@ -61320,7 +61366,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">похмельчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">похмельчи</t>
       </tg>
     </mg>
   </e>
@@ -61758,7 +61804,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">килейбуло</t>
+        <t Contlex="N_КУДО" pos="N">килейпуло</t>
       </tg>
     </mg>
   </e>
@@ -64532,7 +64578,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">кептере</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">кептере</t>
 
         <t Contlex="N_КУДО" pos="N">корзина</t>
 
@@ -64572,7 +64618,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">наянчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">наянчи</t>
       </tg>
     </mg>
   </e>
@@ -64736,7 +64782,7 @@
       <tg xml:lang="myv">
         <t Contlex="N_КУДО" pos="N">корзина</t>
 
-        <t Contlex="N_КУДО" pos="N">куйме</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">куйме</t>
 
         <t Contlex="N_ПАНГО" pos="N">парго</t>
       </tg>
@@ -65318,7 +65364,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">кошксе</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">кошксе</t>
       </tg>
     </mg>
   </e>
@@ -65900,7 +65946,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">летьке</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">летьке</t>
       </tg>
     </mg>
   </e>
@@ -65938,7 +65984,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">летьке</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">летьке</t>
       </tg>
     </mg>
   </e>
@@ -66624,7 +66670,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">похмельчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">похмельчи</t>
       </tg>
     </mg>
   </e>
@@ -67354,7 +67400,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">штеме</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">штеме</t>
       </tg>
     </mg>
   </e>
@@ -67496,7 +67542,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">чайтикше</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">чайтикше</t>
       </tg>
     </mg>
   </e>
@@ -68506,7 +68552,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">сырне</t>
+        <t Contlex="N_ВЕЛЕ_IS-НЕ-DIM" pos="N">сырне</t>
       </tg>
     </mg>
   </e>
@@ -69668,7 +69714,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">юткочи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">юткочи</t>
       </tg>
     </mg>
   </e>
@@ -70234,7 +70280,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">пиже</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">пиже</t>
       </tg>
     </mg>
   </e>
@@ -70306,7 +70352,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">чакшке</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">чакшке</t>
       </tg>
     </mg>
   </e>
@@ -70410,7 +70456,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">аваньксчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">аваньксчи</t>
       </tg>
     </mg>
   </e>
@@ -71414,7 +71460,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">пси</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">пси</t>
       </tg>
     </mg>
   </e>
@@ -72370,6 +72416,8 @@
 
     <mg>
       <tg xml:lang="myv">
+        <t Contlex="N_ОШ" pos="N">ирдез</t>
+
         <t Contlex="N_ОШ" pos="N">ирдекс</t>
       </tg>
     </mg>
@@ -72414,7 +72462,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">пешксе</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">пешксе</t>
       </tg>
     </mg>
   </e>
@@ -72762,7 +72810,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">велепе</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">велепе</t>
       </tg>
     </mg>
   </e>
@@ -72778,7 +72826,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">велепе</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">велепе</t>
       </tg>
     </mg>
   </e>
@@ -73351,7 +73399,7 @@
 
       <tg xml:lang="myv">
         <tCtn>
-          <t Contlex="N_КУДО" pos="N">авне</t>
+          <t Contlex="N_ВЕЛЕ_IS-НЕ-DIM" pos="N">авне</t>
 
           <re>aviomiehen nuorempi sisar
 </re>
@@ -74309,7 +74357,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">буе</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">буе</t>
       </tg>
     </mg>
   </e>
@@ -74717,7 +74765,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">ёзнэ</t>
+        <t Contlex="N_ПИЗЭ" pos="N">ёзнэ</t>
       </tg>
     </mg>
   </e>
@@ -74765,9 +74813,9 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">пикспе</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">пикспе</t>
 
-        <t Contlex="N_КУДО" pos="N">пикспе</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">пикспе</t>
       </tg>
     </mg>
   </e>
@@ -74811,7 +74859,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">арасьчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">арасьчи</t>
       </tg>
     </mg>
   </e>
@@ -74827,7 +74875,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">беднойчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">беднойчи</t>
       </tg>
     </mg>
   </e>
@@ -74865,7 +74913,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">нужачи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">нужачи</t>
       </tg>
     </mg>
   </e>
@@ -75935,7 +75983,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">берякшке</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">берякшке</t>
       </tg>
     </mg>
   </e>
@@ -76307,7 +76355,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">нузяксчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">нузяксчи</t>
       </tg>
     </mg>
   </e>
@@ -77323,7 +77371,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">реве</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">реве</t>
       </tg>
     </mg>
   </e>
@@ -77526,6 +77574,26 @@
 
   <e>
     <lg>
+      <l pos="N">lamppuöljy</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="INANIMATE"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="N_КАЛ" pos="N">чувтоой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">lampunvarjostin</l>
 
       <stg>
@@ -77551,7 +77619,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">суре</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">суре</t>
       </tg>
     </mg>
   </e>
@@ -77957,7 +78025,7 @@
 
         <t Contlex="N-HUM_КУДО" pos="N">тяка</t>
 
-        <t Contlex="N_КУДО" pos="N">эйде</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">эйде</t>
       </tg>
     </mg>
   </e>
@@ -78009,7 +78077,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">эйкакшчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">эйкакшчи</t>
       </tg>
     </mg>
   </e>
@@ -79171,7 +79239,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">валрисьме</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">валрисьме</t>
       </tg>
     </mg>
   </e>
@@ -79376,6 +79444,23 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="N_ОШ" pos="N">тёс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">lauta;
+        lankku; laatta, levy, taulu</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="N_КУДО" pos="N">доска</t>
       </tg>
     </mg>
   </e>
@@ -79681,7 +79766,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">листке</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">листке</t>
       </tg>
     </mg>
   </e>
@@ -79741,7 +79826,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">пекше</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">пекше</t>
       </tg>
     </mg>
   </e>
@@ -79851,7 +79936,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">листке</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">листке</t>
       </tg>
     </mg>
   </e>
@@ -80163,9 +80248,9 @@
       <tg xml:lang="myv">
         <t Contlex="N_КАЛ" pos="N">налксемапель</t>
 
-        <t Contlex="N_КУДО" pos="N">налкшке</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">налкшке</t>
 
-        <t Contlex="N_КУДО" pos="N">таташке</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">таташке</t>
 
         <t Contlex="N_КУДО" pos="N">чарамка</t>
       </tg>
@@ -80449,7 +80534,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">кши</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">кши</t>
       </tg>
     </mg>
   </e>
@@ -80659,7 +80744,7 @@
       <tg xml:lang="myv">
         <t Contlex="N_КАЛ" pos="N">налксемапель</t>
 
-        <t Contlex="N_КУДО" pos="N">таташке</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">таташке</t>
 
         <t Contlex="N_КУДО" pos="N">чарамка</t>
       </tg>
@@ -81329,7 +81414,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">лепе</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">лепе</t>
       </tg>
     </mg>
   </e>
@@ -81595,7 +81680,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">келе</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">келе</t>
       </tg>
     </mg>
   </e>
@@ -81993,7 +82078,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">эле</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">эле</t>
       </tg>
     </mg>
   </e>
@@ -82889,7 +82974,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">аваньксчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">аваньксчи</t>
       </tg>
     </mg>
   </e>
@@ -84829,7 +84914,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">певтеме</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">певтеме</t>
       </tg>
     </mg>
   </e>
@@ -84987,7 +85072,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">певтеме</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">певтеме</t>
       </tg>
     </mg>
   </e>
@@ -85749,7 +85834,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">кеме</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">кеме</t>
       </tg>
     </mg>
   </e>
@@ -85771,7 +85856,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">кемечи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">кемечи</t>
       </tg>
     </mg>
   </e>
@@ -85809,7 +85894,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">нардевчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">нардевчи</t>
       </tg>
     </mg>
   </e>
@@ -86233,7 +86318,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">ловняське</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">ловняське</t>
       </tg>
     </mg>
   </e>
@@ -87009,7 +87094,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">кеме</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">кеме</t>
       </tg>
     </mg>
   </e>
@@ -87451,7 +87536,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">тингепире</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">тингепире</t>
       </tg>
     </mg>
   </e>
@@ -87498,14 +87583,8 @@
     </lg>
 
     <mg>
-      <semantics>
-        <sem class="INANIMATE"/>
-
-        <sem class="COUNT"/>
-      </semantics>
-
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">нурькине</t>
+        <t Contlex="A_ВЕЛЕ" pos="A">нурькине</t>
       </tg>
     </mg>
   </e>
@@ -87558,14 +87637,8 @@
     </lg>
 
     <mg>
-      <semantics>
-        <sem class="INANIMATE"/>
-
-        <sem class="COUNT"/>
-      </semantics>
-
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">нурькине</t>
+        <t Contlex="A_ВЕЛЕ" pos="A">нурькине</t>
       </tg>
     </mg>
   </e>
@@ -87587,7 +87660,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">алкачи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">алкачи</t>
       </tg>
     </mg>
   </e>
@@ -87981,7 +88054,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">инеське</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">инеське</t>
       </tg>
     </mg>
   </e>
@@ -88576,28 +88649,6 @@
 
   <e>
     <lg>
-      <l pos="N">lämmin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <semantics>
-        <sem class="INANIMATE"/>
-
-        <sem class="COUNT"/>
-      </semantics>
-
-      <tg xml:lang="myv">
-        <t Contlex="N_ТИНГЕ" pos="N">лембе</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="N">lämmittäjä</l>
 
       <stg>
@@ -88651,7 +88702,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">фойе</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">фойе</t>
       </tg>
     </mg>
   </e>
@@ -90507,7 +90558,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">шоссе</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">шоссе</t>
       </tg>
     </mg>
   </e>
@@ -91253,7 +91304,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">але</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">але</t>
       </tg>
     </mg>
   </e>
@@ -91269,7 +91320,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">виевчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">виевчи</t>
 
         <t Contlex="N_ЛАК" pos="N">илык</t>
       </tg>
@@ -91828,12 +91879,6 @@
     </lg>
 
     <mg>
-      <semantics>
-        <sem class="INANIMATE"/>
-
-        <sem class="COUNT"/>
-      </semantics>
-
       <tg xml:lang="myv">
         <t Contlex="N_КУДО" pos="N">ламбамо</t>
       </tg>
@@ -92647,7 +92692,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КАЛ_SUB" pos="N">кстый</t>
+        <t Contlex="N_КАЛ" pos="N">кстый</t>
       </tg>
     </mg>
   </e>
@@ -93203,7 +93248,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">алкачи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">алкачи</t>
       </tg>
     </mg>
   </e>
@@ -93225,7 +93270,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">кальметикше</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">кальметикше</t>
       </tg>
     </mg>
   </e>
@@ -93929,7 +93974,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">мекшвеле</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">мекшвеле</t>
       </tg>
     </mg>
   </e>
@@ -93961,7 +94006,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">нешкепире</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">нешкепире</t>
       </tg>
     </mg>
   </e>
@@ -94041,7 +94086,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">карвотикше</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">карвотикше</t>
       </tg>
     </mg>
   </e>
@@ -94171,7 +94216,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">миле</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">миле</t>
       </tg>
     </mg>
   </e>
@@ -95801,7 +95846,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">вирне</t>
+        <t Contlex="N_ВЕЛЕ_IS-НЕ-DIM" pos="N">вирне</t>
       </tg>
     </mg>
   </e>
@@ -98089,7 +98134,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">эльзире</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">эльзире</t>
       </tg>
     </mg>
   </e>
@@ -98181,7 +98226,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">одирьваксчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">одирьваксчи</t>
       </tg>
     </mg>
   </e>
@@ -98459,7 +98504,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">талайчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">талайчи</t>
       </tg>
     </mg>
   </e>
@@ -101527,7 +101572,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">невтемачи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">невтемачи</t>
       </tg>
     </mg>
   </e>
@@ -101795,7 +101840,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">кудыне</t>
+        <t Contlex="N_ВЕЛЕ_IS-НЕ-DIM" pos="N">кудыне</t>
       </tg>
     </mg>
   </e>
@@ -103836,6 +103881,22 @@
     </lg>
 
     <mg>
+      <tg xml:lang="myv">
+        <t Contlex="N_КИТ-LAT" pos="N">совет</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">neuvo</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
       <semantics>
         <sem class="INANIMATE"/>
 
@@ -105519,7 +105580,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">бойкачи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">бойкачи</t>
       </tg>
     </mg>
   </e>
@@ -106187,7 +106248,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">пиже</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">пиже</t>
       </tg>
     </mg>
   </e>
@@ -106315,7 +106376,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">одксчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">одксчи</t>
       </tg>
     </mg>
   </e>
@@ -106839,7 +106900,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">вачочи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">вачочи</t>
       </tg>
     </mg>
   </e>
@@ -106975,7 +107036,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">ловкачи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">ловкачи</t>
       </tg>
     </mg>
   </e>
@@ -107463,7 +107524,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">чинеме</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">чинеме</t>
       </tg>
     </mg>
   </e>
@@ -107479,7 +107540,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">сэтьмечи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">сэтьмечи</t>
       </tg>
     </mg>
   </e>
@@ -108183,7 +108244,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">пачалксе</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">пачалксе</t>
       </tg>
     </mg>
   </e>
@@ -108199,7 +108260,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">човине</t>
+        <t Contlex="N_ВЕЛЕ_IS-НЕ-DIM" pos="N">човине</t>
       </tg>
     </mg>
   </e>
@@ -108243,7 +108304,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">виде</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">виде</t>
       </tg>
     </mg>
   </e>
@@ -108367,7 +108428,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">видечи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">видечи</t>
       </tg>
     </mg>
   </e>
@@ -108487,7 +108548,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">аксунчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">аксунчи</t>
       </tg>
     </mg>
   </e>
@@ -108753,7 +108814,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">тошначи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">тошначи</t>
       </tg>
     </mg>
   </e>
@@ -109531,7 +109592,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">азорксчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">азорксчи</t>
       </tg>
     </mg>
   </e>
@@ -111251,7 +111312,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">уре</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">уре</t>
       </tg>
     </mg>
   </e>
@@ -111353,7 +111414,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">урексчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">урексчи</t>
       </tg>
     </mg>
   </e>
@@ -111815,7 +111876,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">пелькске</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">пелькске</t>
       </tg>
     </mg>
   </e>
@@ -112025,7 +112086,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">пайстомочи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">пайстомочи</t>
       </tg>
     </mg>
   </e>
@@ -112557,7 +112618,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">ёжовчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">ёжовчи</t>
       </tg>
     </mg>
   </e>
@@ -113337,7 +113398,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">пастухке</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">пастухке</t>
       </tg>
     </mg>
   </e>
@@ -113429,7 +113490,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">стакачи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">стакачи</t>
       </tg>
     </mg>
   </e>
@@ -114199,7 +114260,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">эрявиксчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">эрявиксчи</t>
       </tg>
     </mg>
   </e>
@@ -114627,7 +114688,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">палкине</t>
+        <t Contlex="N_ВЕЛЕ_IS-НЕ-DIM" pos="N">палкине</t>
       </tg>
     </mg>
   </e>
@@ -114659,7 +114720,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">кепе</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">кепе</t>
       </tg>
     </mg>
   </e>
@@ -114823,7 +114884,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">жюри</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">жюри</t>
       </tg>
     </mg>
   </e>
@@ -114845,7 +114906,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">жюри</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">жюри</t>
       </tg>
     </mg>
   </e>
@@ -117723,7 +117784,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">чевте</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">чевте</t>
       </tg>
     </mg>
   </e>
@@ -118315,7 +118376,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО_SUB" pos="N">куропатка</t>
+        <t Contlex="N_КУДО" pos="N">куропатка</t>
       </tg>
     </mg>
   </e>
@@ -120787,7 +120848,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">даволнэ</t>
+        <t Contlex="N_ПИЗЭ_IS-НЕ-DIM" pos="N">даволнэ</t>
       </tg>
     </mg>
   </e>
@@ -120901,7 +120962,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">кекше</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">кекше</t>
       </tg>
     </mg>
   </e>
@@ -122085,7 +122146,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">нармунне</t>
+        <t Contlex="N_ВЕЛЕ_IS-НЕ-DIM" pos="N">нармунне</t>
       </tg>
     </mg>
   </e>
@@ -122129,7 +122190,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">зверне</t>
+        <t Contlex="N_ВЕЛЕ_IS-НЕ-DIM" pos="N">зверне</t>
       </tg>
     </mg>
   </e>
@@ -122197,7 +122258,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">вежаське</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">вежаське</t>
 
         <t Contlex="N_ОШ" pos="N">межакс</t>
       </tg>
@@ -122215,7 +122276,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">братке</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">братке</t>
 
         <t Contlex="N_ОШ" pos="N">ялакс</t>
       </tg>
@@ -122631,7 +122692,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">чоподачи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">чоподачи</t>
       </tg>
     </mg>
   </e>
@@ -122887,7 +122948,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">вигине</t>
+        <t Contlex="N_ВЕЛЕ_IS-НЕ-DIM" pos="N">вигине</t>
       </tg>
     </mg>
   </e>
@@ -122909,7 +122970,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">бодройчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">бодройчи</t>
       </tg>
     </mg>
   </e>
@@ -123281,7 +123342,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">талайчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">талайчи</t>
       </tg>
     </mg>
   </e>
@@ -123961,7 +124022,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">похмельчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">похмельчи</t>
       </tg>
     </mg>
   </e>
@@ -123997,7 +124058,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">цёрыне</t>
+        <t Contlex="N_ВЕЛЕ_IS-НЕ-DIM" pos="N">цёрыне</t>
       </tg>
     </mg>
   </e>
@@ -124073,7 +124134,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">пайме</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">пайме</t>
       </tg>
     </mg>
   </e>
@@ -124089,7 +124150,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">пайме</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">пайме</t>
       </tg>
     </mg>
   </e>
@@ -124701,7 +124762,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">эле</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">эле</t>
       </tg>
     </mg>
   </e>
@@ -124823,7 +124884,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">алашине</t>
+        <t Contlex="N_ВЕЛЕ_IS-НЕ-DIM" pos="N">алашине</t>
       </tg>
     </mg>
   </e>
@@ -125771,7 +125832,7 @@
 
         <t Contlex="N_КУДО" pos="N">понго</t>
 
-        <t Contlex="N_КУДО" pos="N">эле</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">эле</t>
       </tg>
     </mg>
   </e>
@@ -127166,7 +127227,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">ваньксчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">ваньксчи</t>
       </tg>
     </mg>
   </e>
@@ -127318,7 +127379,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">палкине</t>
+        <t Contlex="N_ВЕЛЕ_IS-НЕ-DIM" pos="N">палкине</t>
       </tg>
     </mg>
   </e>
@@ -127334,7 +127395,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">тингепире</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">тингепире</t>
       </tg>
     </mg>
   </e>
@@ -129632,7 +129693,7 @@
       <tg xml:lang="myv">
         <t Contlex="N-PLC_КУДО" pos="N">пирепе</t>
 
-        <t Contlex="N_КУДО" pos="N">пирепе</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">пирепе</t>
       </tg>
     </mg>
   </e>
@@ -129778,7 +129839,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">арасьчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">арасьчи</t>
       </tg>
     </mg>
   </e>
@@ -129878,7 +129939,7 @@
       <tg xml:lang="myv">
         <t Contlex="N_КУДО" pos="N">нужа</t>
 
-        <t Contlex="N_КУДО" pos="N">нужачи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">нужачи</t>
       </tg>
     </mg>
   </e>
@@ -130080,7 +130141,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">праздникчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">праздникчи</t>
       </tg>
     </mg>
   </e>
@@ -130970,7 +131031,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО-LAT" pos="N">чи</t>
+        <t Contlex="N_ВЕЛЕ-LAT" pos="N">чи</t>
 
         <t Contlex="N_КУДО" pos="N">числа</t>
       </tg>
@@ -131934,7 +131995,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">инечи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">инечи</t>
       </tg>
     </mg>
   </e>
@@ -132406,7 +132467,7 @@
       <tg xml:lang="myv">
         <t Contlex="N_КАЛ" pos="N">пуль</t>
 
-        <t Contlex="N_КУДО" pos="N">чельке</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">чельке</t>
       </tg>
     </mg>
   </e>
@@ -132608,7 +132669,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">пиже</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">пиже</t>
 
         <t Contlex="N_ЛАК" pos="N">письверек</t>
       </tg>
@@ -133578,7 +133639,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">тетявачи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">тетявачи</t>
       </tg>
     </mg>
   </e>
@@ -133600,7 +133661,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">трезвойчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">трезвойчи</t>
       </tg>
     </mg>
   </e>
@@ -133666,7 +133727,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">азарсьчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">азарсьчи</t>
       </tg>
     </mg>
   </e>
@@ -133688,7 +133749,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">азарсьчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">азарсьчи</t>
       </tg>
     </mg>
   </e>
@@ -135315,7 +135376,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">пешксесэ</t>
+        <t Contlex="N_ПИЗЭ" pos="N">пешксесэ</t>
       </tg>
     </mg>
   </e>
@@ -135347,7 +135408,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">стакачи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">стакачи</t>
       </tg>
     </mg>
   </e>
@@ -136189,7 +136250,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">кшни</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">кшни</t>
       </tg>
     </mg>
   </e>
@@ -136783,7 +136844,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">честнойчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">честнойчи</t>
       </tg>
     </mg>
   </e>
@@ -136941,7 +137002,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">бодройчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">бодройчи</t>
       </tg>
     </mg>
   </e>
@@ -137183,7 +137244,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">ведьме</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">ведьме</t>
       </tg>
     </mg>
   </e>
@@ -138337,7 +138398,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">суре</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">суре</t>
       </tg>
     </mg>
   </e>
@@ -138901,9 +138962,9 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">козячи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">козячи</t>
 
-        <t Contlex="N_КУДО" pos="N">сюпавчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">сюпавчи</t>
       </tg>
     </mg>
   </e>
@@ -140027,7 +140088,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">набойчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">набойчи</t>
       </tg>
     </mg>
   </e>
@@ -140065,7 +140126,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">смелчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">смелчи</t>
       </tg>
     </mg>
   </e>
@@ -140697,7 +140758,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">туворнэ</t>
+        <t Contlex="N_ПИЗЭ_IS-НЕ-DIM" pos="N">туворнэ</t>
       </tg>
     </mg>
   </e>
@@ -140719,7 +140780,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">туворнэ</t>
+        <t Contlex="N_ПИЗЭ_IS-НЕ-DIM" pos="N">туворнэ</t>
       </tg>
     </mg>
   </e>
@@ -140973,7 +141034,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">рошксе</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">рошксе</t>
       </tg>
     </mg>
   </e>
@@ -141229,7 +141290,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">амазычи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">амазычи</t>
       </tg>
     </mg>
   </e>
@@ -141591,7 +141652,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">сюпавчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">сюпавчи</t>
       </tg>
     </mg>
   </e>
@@ -141647,7 +141708,7 @@
       <tg xml:lang="myv">
         <t Contlex="N_КАЛ" pos="N">нар</t>
 
-        <t Contlex="N_КУДО" pos="N">тикше</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">тикше</t>
       </tg>
     </mg>
   </e>
@@ -142261,7 +142322,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">кальметикше</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">кальметикше</t>
       </tg>
     </mg>
   </e>
@@ -142491,7 +142552,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">чакшке</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">чакшке</t>
       </tg>
     </mg>
   </e>
@@ -143375,7 +143436,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">тингепире</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">тингепире</t>
       </tg>
     </mg>
   </e>
@@ -143987,7 +144048,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">галифе</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">галифе</t>
       </tg>
     </mg>
   </e>
@@ -144463,7 +144524,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">пиземе</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">пиземе</t>
       </tg>
     </mg>
   </e>
@@ -144795,7 +144856,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">скупойчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">скупойчи</t>
       </tg>
     </mg>
   </e>
@@ -145029,7 +145090,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">салавачи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">салавачи</t>
       </tg>
     </mg>
   </e>
@@ -148647,7 +148708,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">тетявачи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">тетявачи</t>
       </tg>
     </mg>
   </e>
@@ -148669,7 +148730,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">трезвойчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">трезвойчи</t>
       </tg>
     </mg>
   </e>
@@ -149079,7 +149140,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">прясуре</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">прясуре</t>
       </tg>
     </mg>
   </e>
@@ -149119,7 +149180,7 @@
       <tg xml:lang="myv">
         <t Contlex="N_ОШ" pos="N">каштаз</t>
 
-        <t Contlex="N_КУДО" pos="N">прясуре</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">прясуре</t>
       </tg>
     </mg>
   </e>
@@ -149341,7 +149402,7 @@
       <tg xml:lang="myv">
         <t Contlex="N_КУДО" pos="N">сита</t>
 
-        <t Contlex="N_КУДО" pos="N">сувтеме</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">сувтеме</t>
       </tg>
     </mg>
   </e>
@@ -149721,7 +149782,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">видьме</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">видьме</t>
       </tg>
     </mg>
   </e>
@@ -150161,7 +150222,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">юмборге</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">юмборге</t>
       </tg>
     </mg>
   </e>
@@ -150177,7 +150238,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">ваньксчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">ваньксчи</t>
       </tg>
     </mg>
   </e>
@@ -150345,7 +150406,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">аваньксчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">аваньксчи</t>
       </tg>
     </mg>
   </e>
@@ -151031,7 +151092,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">пуре</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">пуре</t>
       </tg>
     </mg>
   </e>
@@ -152868,7 +152929,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">сельмевтеме</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">сельмевтеме</t>
 
         <t Contlex="N_КАЛ" pos="N">сокор</t>
       </tg>
@@ -152960,7 +153021,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">сокорчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">сокорчи</t>
       </tg>
     </mg>
   </e>
@@ -153026,7 +153087,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">кончке</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">кончке</t>
       </tg>
     </mg>
   </e>
@@ -155926,7 +155987,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">буе</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">буе</t>
 
         <t Contlex="N_КУДО" pos="N">плема</t>
       </tg>
@@ -156006,7 +156067,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">инеське</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">инеське</t>
       </tg>
     </mg>
   </e>
@@ -156394,7 +156455,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">недлячи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">недлячи</t>
       </tg>
     </mg>
   </e>
@@ -156982,7 +157043,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">виде</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">виде</t>
       </tg>
     </mg>
   </e>
@@ -157344,7 +157405,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">жальчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">жальчи</t>
       </tg>
     </mg>
   </e>
@@ -158088,7 +158149,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">покшчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">покшчи</t>
       </tg>
     </mg>
   </e>
@@ -158200,7 +158261,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">седейтеме</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">седейтеме</t>
       </tg>
     </mg>
   </e>
@@ -159101,7 +159162,7 @@
 
         <t Contlex="N_КУДО" pos="N">чумо</t>
 
-        <t Contlex="N_КУДО" pos="N">чумочи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">чумочи</t>
       </tg>
     </mg>
   </e>
@@ -160307,7 +160368,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">сэтьмечи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">сэтьмечи</t>
       </tg>
     </mg>
   </e>
@@ -160467,7 +160528,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">жальчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">жальчи</t>
       </tg>
     </mg>
   </e>
@@ -161237,7 +161298,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">или</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">или</t>
       </tg>
     </mg>
   </e>
@@ -161737,7 +161798,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">ловкачи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">ловкачи</t>
       </tg>
     </mg>
   </e>
@@ -161829,7 +161890,7 @@
 
         <t Contlex="N_ЛАК" pos="N">ёрок</t>
 
-        <t Contlex="N_КУДО" pos="N">ёрокчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">ёрокчи</t>
       </tg>
     </mg>
   </e>
@@ -162195,7 +162256,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">удалце</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">удалце</t>
       </tg>
     </mg>
   </e>
@@ -162211,7 +162272,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">удалце</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">удалце</t>
       </tg>
     </mg>
   </e>
@@ -162425,7 +162486,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">такси</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">такси</t>
       </tg>
     </mg>
   </e>
@@ -163157,7 +163218,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">теле</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">теле</t>
       </tg>
     </mg>
   </e>
@@ -164335,7 +164396,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">ванстомачи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">ванстомачи</t>
       </tg>
     </mg>
   </e>
@@ -164919,7 +164980,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">эрявиксчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">эрявиксчи</t>
       </tg>
     </mg>
   </e>
@@ -165155,7 +165216,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">республика</t>
+        <t Contlex="N-PLC_КУДО" pos="N">республика</t>
       </tg>
     </mg>
   </e>
@@ -165275,7 +165336,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">фонарне</t>
+        <t Contlex="N_ВЕЛЕ_IS-НЕ-DIM" pos="N">фонарне</t>
       </tg>
     </mg>
   </e>
@@ -167747,7 +167808,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">шумбрачи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">шумбрачи</t>
       </tg>
     </mg>
   </e>
@@ -167877,7 +167938,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">пшти</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">пшти</t>
       </tg>
     </mg>
   </e>
@@ -168575,7 +168636,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">резюме</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">резюме</t>
       </tg>
     </mg>
   </e>
@@ -168703,7 +168764,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">юткочи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">юткочи</t>
       </tg>
     </mg>
   </e>
@@ -169443,7 +169504,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">киве</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">киве</t>
       </tg>
     </mg>
   </e>
@@ -170917,7 +170978,7 @@
       <tg xml:lang="myv">
         <t Contlex="N_КАЛ" pos="N">пуль</t>
 
-        <t Contlex="N_КУДО" pos="N">чельке</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">чельке</t>
       </tg>
     </mg>
   </e>
@@ -171285,7 +171346,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">алкуксчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">алкуксчи</t>
       </tg>
     </mg>
   </e>
@@ -171307,7 +171368,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">виде</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">виде</t>
       </tg>
     </mg>
   </e>
@@ -171569,7 +171630,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">алкуксчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">алкуксчи</t>
       </tg>
     </mg>
   </e>
@@ -171585,7 +171646,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">видечи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">видечи</t>
       </tg>
     </mg>
   </e>
@@ -171809,7 +171870,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">ялгаксчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">ялгаксчи</t>
       </tg>
     </mg>
   </e>
@@ -172831,7 +172892,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">неже</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">неже</t>
       </tg>
     </mg>
   </e>
@@ -174127,7 +174188,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">кептере</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">кептере</t>
       </tg>
     </mg>
   </e>
@@ -174181,7 +174242,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">чине</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">чине</t>
       </tg>
     </mg>
   </e>
@@ -174245,7 +174306,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">лайме</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">лайме</t>
 
         <t Contlex="N_ОШ" pos="N">ламарькс</t>
 
@@ -174961,7 +175022,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">турмечи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">турмечи</t>
       </tg>
     </mg>
   </e>
@@ -175995,7 +176056,7 @@
       <tg xml:lang="myv">
         <t Contlex="N_ЛАК" pos="N">аптюк</t>
 
-        <t Contlex="N_КУДО" pos="N">превтеме</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">превтеме</t>
       </tg>
     </mg>
   </e>
@@ -176171,7 +176232,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">ношкачи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">ношкачи</t>
       </tg>
     </mg>
   </e>
@@ -176398,7 +176459,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">тейтерьксчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">тейтерьксчи</t>
       </tg>
     </mg>
   </e>
@@ -177332,7 +177393,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">стякочи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">стякочи</t>
       </tg>
     </mg>
   </e>
@@ -177354,7 +177415,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">трудочи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">трудочи</t>
       </tg>
     </mg>
   </e>
@@ -177812,7 +177873,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">течи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">течи</t>
       </tg>
     </mg>
   </e>
@@ -177976,7 +178037,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">пешксе</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">пешксе</t>
       </tg>
     </mg>
   </e>
@@ -177998,7 +178059,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">пешксе</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">пешксе</t>
       </tg>
     </mg>
   </e>
@@ -178280,7 +178341,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">ветьке</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">ветьке</t>
       </tg>
     </mg>
   </e>
@@ -178524,7 +178585,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">пурьгине</t>
+        <t Contlex="N_ВЕЛЕ_IS-НЕ-DIM" pos="N">пурьгине</t>
       </tg>
     </mg>
   </e>
@@ -180659,7 +180720,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">ашине</t>
+        <t Contlex="N_ВЕЛЕ_IS-НЕ-DIM" pos="N">ашине</t>
       </tg>
     </mg>
   </e>
@@ -180681,7 +180742,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">валдочи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">валдочи</t>
       </tg>
     </mg>
   </e>
@@ -180849,7 +180910,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">скромнойчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">скромнойчи</t>
       </tg>
     </mg>
   </e>
@@ -181131,7 +181192,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">кеме</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">кеме</t>
       </tg>
     </mg>
   </e>
@@ -181191,7 +181252,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">нардевчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">нардевчи</t>
       </tg>
     </mg>
   </e>
@@ -181213,7 +181274,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">или</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">или</t>
       </tg>
     </mg>
   </e>
@@ -181475,7 +181536,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">стакачи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">стакачи</t>
 
         <t Contlex="N_КУДО" pos="N">сталмо</t>
       </tg>
@@ -181667,7 +181728,7 @@
 
         <t Contlex="N_КУДО" pos="N">козяйка</t>
 
-        <t Contlex="N_КУДО" pos="N">ни</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">ни</t>
       </tg>
     </mg>
   </e>
@@ -182651,7 +182712,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">ашочи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">ашочи</t>
       </tg>
     </mg>
   </e>
@@ -182887,7 +182948,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">набойчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">набойчи</t>
       </tg>
     </mg>
   </e>
@@ -183045,7 +183106,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">анокчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">анокчи</t>
       </tg>
     </mg>
   </e>
@@ -183127,7 +183188,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">валдочи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">валдочи</t>
       </tg>
     </mg>
   </e>
@@ -183305,7 +183366,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">валдыне</t>
+        <t Contlex="N_ВЕЛЕ_IS-НЕ-DIM" pos="N">валдыне</t>
       </tg>
     </mg>
   </e>
@@ -183561,7 +183622,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">шоссе</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">шоссе</t>
       </tg>
     </mg>
   </e>
@@ -184157,7 +184218,7 @@
       <tg xml:lang="myv">
         <t Contlex="N_КАЛ" pos="N">седикелень</t>
 
-        <t Contlex="N_КУДО" pos="N">сыре</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">сыре</t>
 
         <t Contlex="N_ПАНГО" pos="N">ташто</t>
       </tg>
@@ -184328,7 +184389,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">сыречи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">сыречи</t>
       </tg>
     </mg>
   </e>
@@ -184521,6 +184582,28 @@
 
   <e>
     <lg>
+      <l pos="N">vannas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="INANIMATE"/>
+
+        <sem class="COUNT"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="N_КАЛ" pos="N">лемех</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">vanne</l>
 
       <stg>
@@ -184652,7 +184735,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">оляксчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">оляксчи</t>
       </tg>
     </mg>
   </e>
@@ -184668,7 +184751,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">олячи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">олячи</t>
       </tg>
     </mg>
   </e>
@@ -184898,7 +184981,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">уличи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">уличи</t>
       </tg>
     </mg>
   </e>
@@ -185056,7 +185139,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">анокке</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">анокке</t>
       </tg>
     </mg>
   </e>
@@ -185220,7 +185303,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">анокке</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">анокке</t>
       </tg>
     </mg>
   </e>
@@ -185258,7 +185341,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">уличи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">уличи</t>
       </tg>
     </mg>
   </e>
@@ -185618,7 +185701,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">озяске</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">озяске</t>
       </tg>
     </mg>
   </e>
@@ -185636,7 +185719,7 @@
       <tg xml:lang="myv">
         <t Contlex="N_КУДО" pos="N">вашо</t>
 
-        <t Contlex="N_КУДО" pos="N">парнэ</t>
+        <t Contlex="N_ПИЗЭ_IS-НЕ-DIM" pos="N">парнэ</t>
       </tg>
     </mg>
   </e>
@@ -187378,7 +187461,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">купе</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">купе</t>
       </tg>
     </mg>
   </e>
@@ -187644,7 +187727,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">братке</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">братке</t>
       </tg>
     </mg>
   </e>
@@ -187794,7 +187877,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">братке</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">братке</t>
       </tg>
     </mg>
   </e>
@@ -189208,7 +189291,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">азарсьчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">азарсьчи</t>
       </tg>
     </mg>
   </e>
@@ -189762,7 +189845,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">ёжовчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">ёжовчи</t>
       </tg>
     </mg>
   </e>
@@ -190242,7 +190325,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">вардоньчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">вардоньчи</t>
       </tg>
     </mg>
   </e>
@@ -190664,7 +190747,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">пиже</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">пиже</t>
       </tg>
     </mg>
   </e>
@@ -190876,7 +190959,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">меельце</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">меельце</t>
       </tg>
     </mg>
   </e>
@@ -190892,7 +190975,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">меельце</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">меельце</t>
       </tg>
     </mg>
   </e>
@@ -191078,7 +191161,7 @@
       <tg xml:lang="myv">
         <t Contlex="N_КУДО-PL" pos="N">велямот</t>
 
-        <t Contlex="N_КУДО" pos="N">чеке</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">чеке</t>
       </tg>
     </mg>
   </e>
@@ -191242,7 +191325,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">превейчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">превейчи</t>
       </tg>
     </mg>
   </e>
@@ -191516,7 +191599,7 @@
       <tg xml:lang="myv">
         <t Contlex="N_КУДО" pos="N">чумо</t>
 
-        <t Contlex="N_КУДО" pos="N">чумочи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">чумочи</t>
       </tg>
     </mg>
   </e>
@@ -192010,7 +192093,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">азарсьчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">азарсьчи</t>
       </tg>
     </mg>
   </e>
@@ -192686,7 +192769,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">бодройчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">бодройчи</t>
       </tg>
     </mg>
   </e>
@@ -193090,7 +193173,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">рисьме</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">рисьме</t>
       </tg>
     </mg>
   </e>
@@ -193488,7 +193571,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">але</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">але</t>
       </tg>
     </mg>
   </e>
@@ -193510,7 +193593,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">арнэ</t>
+        <t Contlex="N_ПИЗЭ" pos="N">арнэ</t>
       </tg>
     </mg>
   </e>
@@ -193526,7 +193609,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">виевчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">виевчи</t>
 
         <t Contlex="N_КАЛ" pos="N">вий</t>
 
@@ -193594,7 +193677,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">арнэ</t>
+        <t Contlex="N_ПИЗЭ" pos="N">арнэ</t>
       </tg>
     </mg>
   </e>
@@ -193710,7 +193793,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">вийтемечи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">вийтемечи</t>
       </tg>
     </mg>
   </e>
@@ -194950,7 +195033,7 @@
       <tg xml:lang="myv">
         <t Contlex="N_КУДО-PL" pos="N">велямот</t>
 
-        <t Contlex="N_КУДО" pos="N">чеке</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">чеке</t>
       </tg>
     </mg>
   </e>
@@ -195718,7 +195801,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">васолксчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">васолксчи</t>
       </tg>
     </mg>
   </e>
@@ -196106,7 +196189,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">эрявиксчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">эрявиксчи</t>
       </tg>
     </mg>
   </e>
@@ -196300,7 +196383,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">штере</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">штере</t>
       </tg>
     </mg>
   </e>
@@ -198200,7 +198283,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">верце</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">верце</t>
       </tg>
     </mg>
   </e>
@@ -198524,7 +198607,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">наянчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">наянчи</t>
       </tg>
     </mg>
   </e>
@@ -198540,7 +198623,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">каштанчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">каштанчи</t>
       </tg>
     </mg>
   </e>
@@ -198606,7 +198689,7 @@
       </semantics>
 
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">вернешке</t>
+        <t Contlex="N_ВЕЛЕ_IS-КЕ-DIM" pos="N">вернешке</t>
       </tg>
     </mg>
   </e>
@@ -198776,9 +198859,9 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">ояксчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">ояксчи</t>
 
-        <t Contlex="N_КУДО" pos="N">ялгаксчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">ялгаксчи</t>
       </tg>
     </mg>
   </e>
@@ -199079,8 +199162,6 @@
     <mg>
       <semantics>
         <sem class="FAMILY"/>
-
-        <sem class="PEOPLE"/>
       </semantics>
 
       <tg xml:lang="myv">
@@ -199100,7 +199181,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_КУДО" pos="N">аваксчи</t>
+        <t Contlex="N_ВЕЛЕ" pos="N">аваксчи</t>
       </tg>
     </mg>
   </e>

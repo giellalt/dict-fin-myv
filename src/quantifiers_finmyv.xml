@@ -22,7 +22,7 @@
 
   <e>
     <lg>
-      <l pos="Qnt">ensinnäkin</l>
+      <l pos="Adv">ensinnäkin</l>
 
       <stg>
         <st/>
@@ -247,7 +247,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="ITER_" pos="Qnt">кавксть</t>
+        <t Contlex="IS-NUM-CARD-ITER" pos="Num">кавксть</t>
       </tg>
     </mg>
   </e>
@@ -411,7 +411,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="ITER_" pos="Qnt">весть</t>
+        <t Contlex="IS-NUM-CARD-ITER" pos="Num">весть</t>
       </tg>
     </mg>
   </e>
@@ -483,7 +483,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="ITER_" pos="Qnt">колмоксть</t>
+        <t Contlex="IS-NUM-CARD-ITER" pos="Num">колмоксть</t>
       </tg>
     </mg>
   </e>
@@ -655,7 +655,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="ITER_" pos="Qnt">кеменьксть</t>
+        <t Contlex="IS-NUM-CARD-ITER" pos="Num">кеменьксть</t>
       </tg>
     </mg>
   </e>
@@ -775,7 +775,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="ITER_" pos="Qnt">нилексть</t>
+        <t Contlex="IS-NUM-CARD-ITER" pos="Num">нилексть</t>
       </tg>
     </mg>
   </e>
@@ -843,7 +843,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="ITER_" pos="Qnt">весть-кавксть</t>
+        <t Contlex="IS-NUM-CARD-ITER" pos="Num">весть-кавксть</t>
       </tg>
     </mg>
   </e>
@@ -948,6 +948,22 @@
 
       <tg xml:lang="myv">
         <t Contlex="NUM_КУДО" pos="Qnt">сисемеце</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">taas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="ADV-TEMP-ITER" pos="Adv">таго</t>
       </tg>
     </mg>
   </e>
@@ -1094,6 +1110,22 @@
 
   <e>
     <lg>
+      <l pos="Adv">uudelleen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="ADV-TEMP-ITER" pos="Adv">таго</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Num">viides</l>
 
       <stg>
@@ -1159,7 +1191,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="ITER_" pos="Qnt">ветексть</t>
+        <t Contlex="IS-NUM-CARD-ITER" pos="Num">ветексть</t>
       </tg>
     </mg>
   </e>
@@ -1191,7 +1223,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="ITER_" pos="Qnt">ветешкаксть</t>
+        <t Contlex="IS-NUM-CARD-ITER" pos="Num">ветешкаксть</t>
       </tg>
     </mg>
   </e>

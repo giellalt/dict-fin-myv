@@ -22,22 +22,6 @@
 
   <e>
     <lg>
-      <l pos="V" val="IV">pamahtaa; kajahtaa;</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="TV_ЛЕДЕМС-ObjAll" pos="V" val="TV">зэрькадемс</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="V" val="IV">aaltoilla</l>
 
       <stg>
@@ -132,6 +116,22 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="IV_КУНДАМС" pos="V" val="IV">травамс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">ahdistaa, painostaa, painaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_КУНДАМС-ObjAll" pos="V">гнётамс</t>
       </tg>
     </mg>
   </e>
@@ -282,6 +282,22 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="IV_КУНДАМС" pos="V" val="IV">сэзнэмс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">aikoa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="IV_КУНДАМС" pos="V">арсемс</t>
       </tg>
     </mg>
   </e>
@@ -526,7 +542,7 @@
 
   <e>
     <lg>
-      <l pos="V">ajatella, miettiä; luulla, arvella; aikoa</l>
+      <l pos="V">ajatella, miettiä</l>
 
       <stg>
         <st/>
@@ -535,6 +551,8 @@
 
     <mg>
       <tg xml:lang="myv">
+        <t Contlex="IV_КУНДАМС" pos="V">арсемс</t>
+
         <t Contlex="IV_КУНДАМС" pos="V">арсемс</t>
       </tg>
     </mg>
@@ -713,7 +731,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="TV_КАДОМС-ObjAll" pos="V">ушодомс</t>
+        <t Contlex="IV_КАДОМС" pos="V">ушодомс</t>
       </tg>
     </mg>
   </e>
@@ -1180,8 +1198,7 @@
 
   <e>
     <lg>
-      <l pos="V">alkaa, ryhtyä, ruveta; käynnistää, panna käyntiin; vetää
-        (kello)</l>
+      <l pos="V">alkaa, ryhtyä, ruveta</l>
 
       <stg>
         <st/>
@@ -1191,6 +1208,23 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="TV_КУНДАМС-ObjAll" pos="V">заводямс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">alkaa, превс кундамс alkaa ajatella, тевс кундамс ryhtyä
+        työhön, ryhtyä toimeen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_КУНДАМС-ObjAll" pos="V">кундамс</t>
       </tg>
     </mg>
   </e>
@@ -1944,7 +1978,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="TV_НЕВТЕМС-ObjAll" pos="V" val="TV">кельгстемс</t>
+        <t Contlex="TV_НЕВТЕМС-ObjAll" pos="V" val="TV">кельгстямс</t>
       </tg>
     </mg>
   </e>
@@ -2842,7 +2876,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="V-AUX-NEG-PRT1" pos="V-Aux">эзь</t>
+        <t Contlex="V-AUX-NEG-PRT1" pos="V">эзь</t>
       </tg>
     </mg>
   </e>
@@ -3396,6 +3430,22 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="IV_ЯНГАВОМС" pos="V" val="IV">явовомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">esitellä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_САВТОМС-ObjAll" pos="V">вастовтомс</t>
       </tg>
     </mg>
   </e>
@@ -4495,7 +4545,7 @@
 
   <e>
     <lg>
-      <l pos="V">haravoida (kokoon), lapioida (kasaan); kaapia</l>
+      <l pos="V">haravoida (kokoon), lapioida (kasaan)</l>
 
       <stg>
         <st/>
@@ -5017,6 +5067,22 @@
 
   <e>
     <lg>
+      <l pos="V">haukkua (kuv.)</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_КАДОМС-ObjAll" pos="V">пезэмс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V">hauskuuttaa</l>
 
       <stg>
@@ -5351,8 +5417,7 @@
 
   <e>
     <lg>
-      <l pos="V">heilauttaa, huiskauttaa; lakaista, pyyhkäistä; kahmaista,
-        tempaista</l>
+      <l pos="V">heilauttaa, huiskauttaa</l>
 
       <stg>
         <st/>
@@ -5608,9 +5673,7 @@
 
   <e>
     <lg>
-      <l pos="V">heittää, viskata; iskeä, lyödä; panna; kaataa; riisua;
-        synnyttää ennenaikaisesti; maksaa (veroa), ям каямс kaataa keittoa,
-        вашо каямс varsoa ennenaikaisesti</l>
+      <l pos="V">heittää, viskata</l>
 
       <stg>
         <st/>
@@ -5652,8 +5715,7 @@
 
   <e>
     <lg>
-      <l pos="V">helistä, kilistä; läikäyttää, loiskauttaa; valella,
-        kastella, жойнемс solista,liristä; helistä, soida</l>
+      <l pos="V">helistä, kilistä</l>
 
       <stg>
         <st/>
@@ -5663,6 +5725,22 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="TV_ЛЕДЕМС-ObjAll" pos="V">жойкадемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">helistä, soida</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="IV_КУНДАМС" pos="V">жойнемс</t>
       </tg>
     </mg>
   </e>
@@ -7712,6 +7790,22 @@
 
   <e>
     <lg>
+      <l pos="V">huonontaa, pahentaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_САВТОМС-ObjAll" pos="V">апаргавтомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V" val="IV">huonontua</l>
 
       <stg>
@@ -7952,7 +8046,37 @@
         <t Contlex="IV_КАДОМС" pos="V" val="IV">рангомс</t>
 
         <t Contlex="IV_КУНДАМС" pos="V" val="IV">сееремс</t>
+      </tg>
+    </mg>
+  </e>
 
+  <e>
+    <lg>
+      <l pos="V">huutaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_ЛЕДЕМС-ObjAll" pos="V">серьгедемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V" val="IV">huutaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
         <t Contlex="IV_КУНДАМС" pos="V" val="IV">урномс</t>
       </tg>
     </mg>
@@ -10314,6 +10438,23 @@
 
   <e>
     <lg>
+      <l pos="V">iskeä, lyödä; panna; kaataa; riisua; synnyttää
+        ennenaikaisesti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_КУНДАМС-ObjAll" pos="V">каямс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V" val="IV">isoloida</l>
 
       <stg>
@@ -11451,6 +11592,8 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="V_КУНДАМС" pos="V" val="IV">ласькамс</t>
+
+        <t Contlex="IV_МИЕМС" pos="V" val="IV">чиемс</t>
       </tg>
     </mg>
   </e>
@@ -11703,8 +11846,7 @@
 
   <e>
     <lg>
-      <l pos="V">jyrsiä, nakertaa, kaluta; (kuv.) saada kiusaantumaan,
-        олгтнень чеерть калгизь hiiret jyrsivät oljet</l>
+      <l pos="V">jyrsiä, nakertaa, kaluta</l>
 
       <stg>
         <st/>
@@ -12381,6 +12523,8 @@
 
     <mg>
       <tg xml:lang="myv">
+        <t Contlex="TV_КУНДАМС-ObjAll" pos="V">адерямс</t>
+
         <t Contlex="TV_КУНДАМС-ObjAll" pos="V">ангорямс</t>
 
         <t Contlex="TV_КУНДАМС-ObjAll" pos="V">коцькердамс</t>
@@ -12542,6 +12686,22 @@
 
   <e>
     <lg>
+      <l pos="V">kadehtia</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="IV_КАДОМС" pos="V">сиядомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V" val="IV">kadehtia</l>
 
       <stg>
@@ -12672,6 +12832,22 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="TV_ЛЕДЕМС-ObjAll" pos="V">цопадемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">kahmaista, tempaista</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_КУНДАМС-ObjAll" pos="V">аволдамс</t>
       </tg>
     </mg>
   </e>
@@ -12826,6 +13002,22 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="IV_КУНДАМС" pos="V" val="IV">гравировамс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">kajahtaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_ЛЕДЕМС-ObjAll" pos="V">зэрькадемс</t>
       </tg>
     </mg>
   </e>
@@ -13272,6 +13464,22 @@
         <t Contlex="TV_КУНДАМС-ObjAll" pos="V">кантнемс</t>
 
         <t Contlex="TV_НЕВТЕМС-ObjAll" pos="V">ливтемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">kantautua</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="IV_ЛЕТЕМС" pos="V">кайсетемс</t>
       </tg>
     </mg>
   </e>
@@ -13916,6 +14124,8 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="TV_КУНДАМС-ObjAll" pos="V">варштамс</t>
+
+        <t Contlex="IV_КУНДАМС" pos="V">варштамс</t>
       </tg>
     </mg>
   </e>
@@ -15011,7 +15221,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="V_КАДОМС" pos="V" val="IV">симдемс-андомс</t>
+        <t Contlex="TV_КАДОМС-ObjAll" pos="V" val="TV">симдемс-андомс</t>
       </tg>
     </mg>
   </e>
@@ -15146,8 +15356,7 @@
 
   <e>
     <lg>
-      <l pos="V">kiduttaa kuoliaaksi, rääkätä kuoliaaksi; saada
-        kiusaantumaan, tuskastuttaa; uuvuttaa, näännyttää</l>
+      <l pos="V">kiduttaa kuoliaaksi, rääkätä kuoliaaksi</l>
 
       <stg>
         <st/>
@@ -16334,7 +16543,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="V_КУНДАМС" pos="V" val="IV">стенографнровамс</t>
+        <t Contlex="IV_КУНДАМС" pos="V" val="IV">стенографировамс</t>
       </tg>
     </mg>
   </e>
@@ -16475,6 +16684,22 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="TV_КУНДАМС-ObjAll" pos="V">сёвномс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">kiroilla, sadatella</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_КУНДАМС-ObjAll" pos="V">кроякшномс</t>
       </tg>
     </mg>
   </e>
@@ -16897,6 +17122,22 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="IV_КУНДАМС" pos="V" val="IV">скирямс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">kiusata, vaivata</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_КУНДАМС-ObjAll" pos="V">донямс</t>
       </tg>
     </mg>
   </e>
@@ -20244,6 +20485,8 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="TV_КУНДАМС-ObjAll" pos="V">марямс</t>
+
+        <t Contlex="IV_КУНДАМС" pos="V">марямс</t>
       </tg>
     </mg>
   </e>
@@ -21562,6 +21805,22 @@
 
   <e>
     <lg>
+      <l pos="V">käynnistää, panna käyntiin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_КУНДАМС-ObjAll" pos="V">заводямс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V" val="IV">käyskennellä</l>
 
       <stg>
@@ -21798,7 +22057,7 @@
 
   <e>
     <lg>
-      <l pos="V">kääntää (kielestä toiseen)</l>
+      <l pos="V">kääntää</l>
 
       <stg>
         <st/>
@@ -22022,6 +22281,22 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="IV_КУНДАМС" pos="V" val="IV">уцордамс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">laahata, raahata</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_САВТОМС-ObjAll" pos="V">вензавтомс</t>
       </tg>
     </mg>
   </e>
@@ -22446,6 +22721,22 @@
 
   <e>
     <lg>
+      <l pos="V">laittaa nukkumaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_НЕВТЕМС-ObjAll" pos="V">мадстемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V" val="IV">laittaa ruokaa</l>
 
       <stg>
@@ -22524,6 +22815,22 @@
         <t Contlex="TV_КУНДАМС-ObjAll" pos="V">идердамс</t>
 
         <t Contlex="TV_КУНДАМС-ObjAll" pos="V">тенсемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">lakaista, pyyhkäistä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_КУНДАМС-ObjAll" pos="V">аволдамс</t>
       </tg>
     </mg>
   </e>
@@ -23256,7 +23563,7 @@
 
   <e>
     <lg>
-      <l pos="V">leikata (kangasta); kiroilla, sadatella</l>
+      <l pos="V">leikata (kangasta)</l>
 
       <stg>
         <st/>
@@ -23488,6 +23795,28 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="IV_КУНДАМС" pos="V" val="IV">гувномс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">leipoa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="HUMAN_V"/>
+
+        <sem class="FOODDRINK_V"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="TV_ЛЕДЕМС-ObjAll" pos="V">панемс</t>
       </tg>
     </mg>
   </e>
@@ -24126,6 +24455,22 @@
 
   <e>
     <lg>
+      <l pos="V">liimautua</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="IV_КУНДАМС" pos="V">педямс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V">liisteröidä</l>
 
       <stg>
@@ -24723,6 +25068,23 @@
 
   <e>
     <lg>
+      <l pos="V">loitsia, manata, те тевенть коряс эряви кортавтомс tästä
+        asiasta pitää keskustella</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_САВТОМС-ObjAll" pos="V">кортавтомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V">loiventaa</l>
 
       <stg>
@@ -25043,6 +25405,22 @@
 
   <e>
     <lg>
+      <l pos="V">loukata, solvata</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_КУНДАМС-ObjAll" pos="V">досадямс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V" val="IV">loukkaantua</l>
 
       <stg>
@@ -25059,6 +25437,8 @@
         <t Contlex="IV_КАДОМС" pos="V" val="IV">ордадомс</t>
 
         <t Contlex="IV_КУНДАМС" pos="V" val="IV">ордалемс</t>
+
+        <t Contlex="IV_ЯНГАВОМС" pos="V" val="IV">покордавомс</t>
 
         <t Contlex="IV_ЯНГАВОМС" pos="V" val="IV">томбавомс</t>
 
@@ -25389,6 +25769,22 @@
 
   <e>
     <lg>
+      <l pos="V">lumota</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_ЛЕДЕМС-ObjAll" pos="V">эждемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V">luoda</l>
 
       <stg>
@@ -25547,6 +25943,22 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="TV_КАДОМС-ObjAll" pos="V">ловомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">luulla, arvella</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="IV_КУНДАМС" pos="V">арсемс</t>
       </tg>
     </mg>
   </e>
@@ -26239,6 +26651,22 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="TV_САВТОМС-ObjAll" pos="V">лоськавтомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">läikäyttää, loiskauttaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_ЛЕДЕМС-ObjAll" pos="V">жойкадемс</t>
       </tg>
     </mg>
   </e>
@@ -27131,6 +27559,23 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="TV_КАДОМС-ObjAll" pos="V">пандомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">maksaa (veroa), ям каямс kaataa keittoa, вашо каямс varsoa
+        ennenaikaisesti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_КУНДАМС-ObjAll" pos="V">каямс</t>
       </tg>
     </mg>
   </e>
@@ -28363,6 +28808,22 @@
 
   <e>
     <lg>
+      <l pos="V">muksahtaa, mätkähtää</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_ЛЕДЕМС-ObjAll" pos="V">бухадемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V" val="IV">muksauttaa</l>
 
       <stg>
@@ -29199,6 +29660,24 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="IV_ЯНГАВОМС" pos="V" val="IV">трававомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">myydä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_МИЕМС-ObjAll" pos="V">миемс</t>
+
+        <t Contlex="TV_НЕКШНЕМС-ObjAll" pos="V">микшнемс</t>
       </tg>
     </mg>
   </e>
@@ -30339,8 +30818,7 @@
 
   <e>
     <lg>
-      <l pos="V">neuvotella, keskustella; loitsia, manata, те тевенть коряс
-        эряви кортавтомс tästä asiasta pitää keskustella</l>
+      <l pos="V">neuvotella, keskustella</l>
 
       <stg>
         <st/>
@@ -31376,6 +31854,8 @@
         <t Contlex="TV_ЛЕДЕМС-ObjAll" pos="V">невельдемс</t>
 
         <t Contlex="TV_КУНДАМС-ObjAll" pos="V">невтямс</t>
+
+        <t Contlex="TV_КУНДАМС-ObjAll" pos="V">сезнемс</t>
       </tg>
     </mg>
   </e>
@@ -32064,8 +32544,7 @@
 
   <e>
     <lg>
-      <l pos="V">oikoa jäseniään; laahata, raahata; pinnistellä,
-        ponnistella</l>
+      <l pos="V">oikoa jäseniään</l>
 
       <stg>
         <st/>
@@ -34033,8 +34512,7 @@
 
   <e>
     <lg>
-      <l pos="V">ottaa kiinni, pyydystää, tarttua, siepata; alkaa, превс
-        кундамс alkaa ajatella, тевс кундамс ryhtyä työhön, ryhtyä toimeen</l>
+      <l pos="V">ottaa kiinni, pyydystää, tarttua, siepata</l>
 
       <stg>
         <st/>
@@ -34174,6 +34652,22 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="IV_КУНДАМС" pos="V" val="IV">арендовамс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">ottaa yhteys</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="IV_ЯНГАВОМС" pos="V">сюлмавомс</t>
       </tg>
     </mg>
   </e>
@@ -35264,6 +35758,8 @@
 
     <mg>
       <tg xml:lang="myv">
+        <t Contlex="TV_ЛЕДЕМС-ObjAll" pos="V" val="TV">зэрькадемс</t>
+
         <t Contlex="IV_ЛЕДЕМС" pos="V" val="IV">зэрькадемс</t>
       </tg>
     </mg>
@@ -37125,6 +37621,26 @@
 
     <mg>
       <tg xml:lang="myv">
+        <tCtn>
+          <t Contlex="TV_КАДОМС-ObjAll" pos="V">пезэмс</t>
+
+          <re>pää</re>
+        </tCtn>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">pestä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
         <t Contlex="TV_КУНДАМС-ObjAll" pos="V">шлямс</t>
       </tg>
     </mg>
@@ -37158,22 +37674,6 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="V_КУНДАМС" pos="V" val="IV">муськемс-човамс</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="V">pestä (pää)</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="TV_КАДОМС-ObjAll" pos="V">пезэмс</t>
       </tg>
     </mg>
   </e>
@@ -37629,6 +38129,8 @@
 
     <mg>
       <tg xml:lang="myv">
+        <t Contlex="TV_КАДОМС-ObjAll" pos="V">кекшемс</t>
+
         <t Contlex="TV_КАДОМС-ObjAll" pos="V">сёпомс</t>
       </tg>
     </mg>
@@ -37645,8 +38147,6 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="TV_КАДОМС-ObjAll" pos="V">кекшемс</t>
-
         <t Contlex="IV_КАДОМС" pos="V">кекшемс</t>
 
         <t Contlex="TV_ЛЕДЕМС-ObjAll" pos="V">киськедемс</t>
@@ -37769,7 +38269,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="V_КУНДАМС" pos="V" val="IV">стенографнровамс</t>
+        <t Contlex="IV_КУНДАМС" pos="V" val="IV">стенографировамс</t>
       </tg>
     </mg>
   </e>
@@ -37952,8 +38452,7 @@
 
   <e>
     <lg>
-      <l pos="V">pilkkoa, halkoa, paloitella, лазнотомс haljeta, särkyä;
-        särkeä, olla kipeä</l>
+      <l pos="V">pilkkoa, halkoa, paloitella</l>
 
       <stg>
         <st/>
@@ -38035,8 +38534,7 @@
 
   <e>
     <lg>
-      <l pos="V">pingottaa
-        (soittimen kieltä)</l>
+      <l pos="V">pingottaa (soittimen kieltä)</l>
 
       <stg>
         <st/>
@@ -38062,6 +38560,22 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="IV_ЯНГАВОМС" pos="V" val="IV">таргавомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">pinnistellä, ponnistella</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_САВТОМС-ObjAll" pos="V">вензавтомс</t>
       </tg>
     </mg>
   </e>
@@ -38991,6 +39505,22 @@
 
   <e>
     <lg>
+      <l pos="V">porkata (kaloja nuottaan)</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_ЛЕДЕМС-ObjAll" pos="V">ботадемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V" val="IV">porkata (kaloja nuottaan)</l>
 
       <stg>
@@ -39001,22 +39531,6 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="IV_КУНДАМС" pos="V" val="IV">ботамс</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="V">porkata (kaloja nuottaan); (kuv.) lyödä, iskeä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="TV_ЛЕДЕМС-ObjAll" pos="V">ботадемс</t>
       </tg>
     </mg>
   </e>
@@ -39632,6 +40146,23 @@
 
   <e>
     <lg>
+      <l pos="V">puhua joutavia, panetella. монь лангс мутясь hän panetteli
+        minua</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_КУНДАМС-ObjAll" pos="V">мутямс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V">puhua palturia</l>
 
       <stg>
@@ -40064,6 +40595,22 @@
 
   <e>
     <lg>
+      <l pos="Adv">puolikuoliaaksi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="ADV-TEMP_" pos="Adv">пелекуломс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V" val="IV">puolittaa</l>
 
       <stg>
@@ -40296,9 +40843,7 @@
 
   <e>
     <lg>
-      <l pos="V">puristaa, painaa; asettua; puutua; (vesi) laskea;
-        tiivistyä, kovettua. чарытнень ало модась матрась maa tiivistyi
-        pyörien alla</l>
+      <l pos="V">puristaa, painaa; asettua; puutua; (vesi) laskea</l>
 
       <stg>
         <st/>
@@ -40793,6 +41338,22 @@
         <t Contlex="TV_САВТОМС-ObjAll" pos="V">стявтомс</t>
 
         <t Contlex="TV_ТЕЕМС-ObjAll" pos="V">теемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">pystyä mennä sisään</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="IV_ЯНГАВОМС" pos="V">совавомс</t>
       </tg>
     </mg>
   </e>
@@ -41389,6 +41950,8 @@
         <t Contlex="TV_НЕВТЕМС-ObjAll" pos="V">менстемс</t>
 
         <t Contlex="TV_КУНДАМС-ObjAll" pos="V">нолдамс</t>
+
+        <t Contlex="TV_КУНДАМС-ObjAll" pos="V">нолдтнемс</t>
 
         <t Contlex="TV_КУНДАМС-ObjAll" pos="V">юксемс</t>
       </tg>
@@ -42672,22 +43235,7 @@
         <t Contlex="TV_ЛЕДЕМС-ObjAll" pos="V">раздемс</t>
 
         <t Contlex="TV_ЛЕДЕМС-ObjAll" pos="V">сеземс</t>
-      </tg>
-    </mg>
-  </e>
 
-  <e>
-    <lg>
-      <l pos="V">repiä, nyhtää; (murt.) ylittää, mennä yli; (murt.) poistua,
-        loitota, mennä pois</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
         <t Contlex="TV_КУНДАМС-ObjAll" pos="V">сезнемс</t>
       </tg>
     </mg>
@@ -43079,6 +43627,22 @@
         <t Contlex="TV_КУНДАМС-ObjAll" pos="V">кайсемс</t>
 
         <t Contlex="TV_САВТОМС-ObjAll" pos="V">штавтомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">riisua vaatteista</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_НЕВТЕМС-ObjAll" pos="V">кайсевтемс</t>
       </tg>
     </mg>
   </e>
@@ -43910,7 +44474,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="V_КАДОМС" pos="V" val="IV">симдемс-андомс</t>
+        <t Contlex="TV_КАДОМС-ObjAll" pos="V" val="TV">симдемс-андомс</t>
       </tg>
     </mg>
   </e>
@@ -45109,8 +45673,7 @@
 
   <e>
     <lg>
-      <l pos="V">saada kiusaantumaan, saada tuskastumaan; kiusata,
-        vaivata</l>
+      <l pos="V">saada kiusaantumaan, saada tuskastumaan</l>
 
       <stg>
         <st/>
@@ -45120,6 +45683,22 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="TV_КУНДАМС-ObjAll" pos="V">донямс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">saada kiusaantumaan, tuskastuttaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_САВТОМС-ObjAll" pos="V">муцявтомс</t>
       </tg>
     </mg>
   </e>
@@ -45375,6 +45954,8 @@
       <tg xml:lang="myv">
         <t Contlex="TV_НЕВТЕМС-ObjAll" pos="V">ильтемс</t>
 
+        <t Contlex="TV_КУНДАМС-ObjAll" pos="V">ильтямс</t>
+
         <t Contlex="TV_НЕВТЕМС-ObjAll" pos="V">ливтемс</t>
       </tg>
     </mg>
@@ -45480,8 +46061,7 @@
 
   <e>
     <lg>
-      <l pos="V">saattaa hämmennyksiin, katkeroittaa, harmittaa; huonontaa,
-        pahentaa</l>
+      <l pos="V">saattaa hämmennyksiin, katkeroittaa, harmittaa</l>
 
       <stg>
         <st/>
@@ -45987,8 +46567,7 @@
 
   <e>
     <lg>
-      <l pos="V">samentaa; puhua joutavia, panetella. монь лангс мутясь hän
-        panetteli minua</l>
+      <l pos="V">samentaa</l>
 
       <stg>
         <st/>
@@ -46084,6 +46663,8 @@
         <t Contlex="IV_КУНДАМС" pos="V" val="IV">вальмамс</t>
 
         <t Contlex="IV_КАДОМС" pos="V" val="IV">лепамомс</t>
+
+        <t Contlex="IV_ЛЕДЕМС" pos="V" val="IV">мадемс</t>
       </tg>
     </mg>
   </e>
@@ -46980,6 +47561,22 @@
 
   <e>
     <lg>
+      <l pos="Adv">siihen asti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="ADV-TEMP_" pos="Adv">семс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V">siirrellä</l>
 
       <stg>
@@ -47030,6 +47627,22 @@
 
       <tg xml:lang="myv">
         <t Contlex="IV_КУНДАМС" pos="V" val="IV">сыргамс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">siirtyä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="IV_САВТОМС" pos="V">шаштомс</t>
       </tg>
     </mg>
   </e>
@@ -47225,7 +47838,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="TV_НЕВТЕМС-ObjAll" pos="V" val="TV">кельгстемс</t>
+        <t Contlex="TV_НЕВТЕМС-ObjAll" pos="V" val="TV">кельгстямс</t>
       </tg>
     </mg>
   </e>
@@ -47666,6 +48279,22 @@
 
   <e>
     <lg>
+      <l pos="V">sitoa narulla kuorma lyhteitä, olkia yms</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_КУНДАМС-ObjAll" pos="V">гнётамс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V" val="IV">siunata</l>
 
       <stg>
@@ -47808,6 +48437,22 @@
 
   <e>
     <lg>
+      <l pos="V">soittaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_КУНДАМС-ObjAll" pos="V">гайгстамс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V" val="IV">soittaa (puhelimella)</l>
 
       <stg>
@@ -47884,6 +48529,22 @@
         <t Contlex="IV_КУНДАМС" pos="V" val="IV">жольнемс</t>
 
         <t Contlex="IV_КУНДАМС" pos="V" val="IV">шольнемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">solista,liristä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="IV_КУНДАМС" pos="V">жойнемс</t>
       </tg>
     </mg>
   </e>
@@ -48138,8 +48799,7 @@
 
   <e>
     <lg>
-      <l pos="V">sortaa; ahdistaa, painostaa, painaa; sitoa narulla kuorma
-        lyhteitä, olkia yms</l>
+      <l pos="V">sortaa</l>
 
       <stg>
         <st/>
@@ -48767,8 +49427,7 @@
 
   <e>
     <lg>
-      <l pos="V">sulloa, täyttää; pistää, työntää; työntyä, ryömiä, kavuta;
-        pyrkiä</l>
+      <l pos="V">sulloa, täyttää; pistää, työntää</l>
 
       <stg>
         <st/>
@@ -50385,7 +51044,7 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="V_КАДОМС" pos="V" val="IV">симдемс-андомс</t>
+        <t Contlex="TV_КАДОМС-ObjAll" pos="V" val="TV">симдемс-андомс</t>
 
         <t Contlex="IV_КУНДАМС" pos="V" val="IV">тоцтямс</t>
       </tg>
@@ -50722,6 +51381,22 @@
         <t Contlex="TV_КУНДАМС-ObjAll" pos="V">яжавтнемс</t>
 
         <t Contlex="TV_САВТОМС-ObjAll" pos="V">яжавтомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">särkeä, olla kipeä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="IV_САТОМС" pos="V">лазнотомс</t>
       </tg>
     </mg>
   </e>
@@ -52293,6 +52968,8 @@
       <tg xml:lang="myv">
         <t Contlex="TV_ЛЕДЕМС-ObjAll" pos="V">васодемс</t>
 
+        <t Contlex="IV_САЕВЕМС" pos="V">вастневемс</t>
+
         <t Contlex="TV_САВТОМС-ObjAll" pos="V">вастомс</t>
       </tg>
     </mg>
@@ -53192,6 +53869,22 @@
 
   <e>
     <lg>
+      <l pos="V">tenhota</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_ЛЕДЕМС-ObjAll" pos="V">эждемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V" val="IV">tenttiä</l>
 
       <stg>
@@ -53542,6 +54235,23 @@
 
   <e>
     <lg>
+      <l pos="V">tiivistyä, kovettua. чарытнень ало модась матрась maa
+        tiivistyi pyörien alla</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_КУНДАМС-ObjAll" pos="V">матрамс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V">tikata (täkkiä yms.)</l>
 
       <stg>
@@ -53584,6 +54294,8 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="TV_КУНДАМС-ObjAll" pos="V">заказамс</t>
+
+        <t Contlex="TV_САВТОМС-ObjAll" pos="V">кармавтомс</t>
       </tg>
     </mg>
   </e>
@@ -53862,8 +54574,7 @@
 
   <e>
     <lg>
-      <l pos="V">toivoa,
-        toivottaa</l>
+      <l pos="V">toivoa, toivottaa</l>
 
       <stg>
         <st/>
@@ -54059,6 +54770,8 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="TV_КУНДАМС-ObjAll" pos="V">реализировамс</t>
+
+        <t Contlex="TV_САВТОМС-ObjAll" pos="V">топавтомс</t>
       </tg>
     </mg>
   </e>
@@ -55463,6 +56176,22 @@
 
   <e>
     <lg>
+      <l pos="V">tulla vaihdetuksi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="IV_САЕВЕМС" pos="V">полавтневемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V" val="IV">tulla valmiiksi</l>
 
       <stg>
@@ -55507,6 +56236,22 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="IV_КУНДАМС" pos="V" val="IV">понгонемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">tulla ymmärretyksi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="IV_САЕВЕМС" pos="V">чарькодевемс</t>
       </tg>
     </mg>
   </e>
@@ -55750,6 +56495,8 @@
       <tg xml:lang="myv">
         <t Contlex="TV_КУНДАМС-ObjAll" pos="V">марямс</t>
 
+        <t Contlex="IV_КУНДАМС" pos="V">марямс</t>
+
         <t Contlex="TV_КУНДАМС-ObjAll" pos="V">содамс</t>
       </tg>
     </mg>
@@ -55807,8 +56554,7 @@
 
   <e>
     <lg>
-      <l pos="V">tuottaa harmia, kiusata; loukata, solvata, доска lauta;
-        lankku; laatta, levy, taulu, шахматной доска sakkilauta</l>
+      <l pos="V">tuottaa harmia, kiusata</l>
 
       <stg>
         <st/>
@@ -56640,6 +57386,23 @@
 
   <e>
     <lg>
+      <l pos="V">työntyä, ryömiä, kavuta;
+        pyrkiä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="IV_КУНДАМС" pos="V">эцемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V" val="IV">työntää</l>
 
       <stg>
@@ -57000,6 +57763,8 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="TV_КУНДАМС-ObjAll" pos="V">валямс</t>
+
+        <t Contlex="TV_НЕВТЕМС-ObjAll" pos="V">пештемс</t>
 
         <t Contlex="TV_КУНДАМС-ObjAll" pos="V">пештямс</t>
       </tg>
@@ -57474,6 +58239,22 @@
 
   <e>
     <lg>
+      <l pos="V">ulista</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="IV_КУНДАМС" pos="V">ырнэмс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V" val="IV">ulos ja sisään</l>
 
       <stg>
@@ -57784,6 +58565,22 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="IV_КУНДАМС" pos="V" val="IV">стомамс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">uuvuttaa, näännyttää</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_САВТОМС-ObjAll" pos="V">муцявтомс</t>
       </tg>
     </mg>
   </e>
@@ -58538,6 +59335,22 @@
         <t Contlex="IV_САЕВЕМС" pos="V" val="IV">эждевемс</t>
 
         <t Contlex="IV_ЛЕДЕМС" pos="V" val="IV">эзэльдемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">valella, kastella</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_ЛЕДЕМС-ObjAll" pos="V">жойкадемс</t>
       </tg>
     </mg>
   </e>
@@ -60060,23 +60873,6 @@
 
   <e>
     <lg>
-      <l pos="V">vetää
-        kireälle (nuoraa)</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="TV_КУНДАМС-ObjAll" pos="V">свистямс</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="V">vetää (esim. magneetilla)</l>
 
       <stg>
@@ -60087,6 +60883,38 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="TV_КУНДАМС-ObjAll" pos="V">таргамс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">vetää (kello)</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_КУНДАМС-ObjAll" pos="V">заводямс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">vetää kireälle (nuoraa)</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_КУНДАМС-ObjAll" pos="V">свистямс</t>
       </tg>
     </mg>
   </e>
@@ -60209,6 +61037,22 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="TV_САВТОМС-ObjAll" pos="V">совавтомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">viedä täytäntöön</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_САВТОМС-ObjAll" pos="V">топавтомс</t>
       </tg>
     </mg>
   </e>
@@ -60837,6 +61681,8 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="TV_КУНДАМС-ObjAll" pos="V">варштамс</t>
+
+        <t Contlex="IV_КУНДАМС" pos="V">варштамс</t>
       </tg>
     </mg>
   </e>
@@ -61220,6 +62066,22 @@
         <t Contlex="V_КУНДАМС" pos="V" val="IV">ристнемс</t>
 
         <t Contlex="IV_ЛЕДЕМС" pos="V" val="IV">тородемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">virrata</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="V_КУНДАМС" pos="V">чудемс</t>
       </tg>
     </mg>
   </e>
@@ -62592,6 +63454,23 @@
 
   <e>
     <lg>
+      <l pos="V">ylittää, mennä yli; (murt.) poistua, loitota, mennä
+        pois</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_КУНДАМС-ObjAll" pos="V">сезнемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V" val="IV">yllyttää</l>
 
       <stg>
@@ -63193,6 +64072,22 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="TV_КУНДАМС-ObjAll" pos="V">карсемс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">лазнотомс haljeta, särkyä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="IV_САТОМС" pos="V">лазнотомс</t>
       </tg>
     </mg>
   </e>

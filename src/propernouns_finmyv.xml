@@ -22,7 +22,7 @@
 
   <e>
     <lg>
-      <l pos="N">Luoja</l>
+      <l pos="N">Ylijumala</l>
 
       <stg>
         <st/>
@@ -480,6 +480,8 @@
         <t Contlex="PROP-SETTLEMENT_КУДО" pos="N">Финляндия</t>
 
         <t Contlex="PROP-SETTLEMENT_КУДО" pos="N">Суоми</t>
+
+        <t Contlex="PROP-SETTLEMENT_КУДО" pos="N">Финляндия</t>
       </tg>
     </mg>
   </e>
@@ -550,7 +552,7 @@
 
   <e>
     <lg>
-      <l pos="N">Allah</l>
+      <l pos="N">XX</l>
 
       <stg>
         <st/>
@@ -570,7 +572,7 @@
 
   <e>
     <lg>
-      <l pos="N">Batuševo</l>
+      <l pos="N">XX</l>
 
       <stg>
         <st/>
@@ -580,13 +582,37 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="PROP_КУДО" pos="N">Ботужале</t>
+
+        <t Contlex="PROP_КУДО" pos="N">Бразилия</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">Brasilia</l>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="DEITY"/>
+
+        <sem class="MYTH_BEING"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="PROP_КУДО_DIVINITY" pos="N">Ведьавака</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
 
       <stg>
         <st/>
@@ -595,7 +621,681 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="PROP_КУДО" pos="N">Бразилия</t>
+        <t Contlex="PROP_КУДО" pos="N">Вирьавине</t>
+
+        <t Contlex="PROP_ОШ" pos="N">Кавказ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="MYTH_BEING"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="PROP_КУДО_DIVINITY" pos="N">Куломаатя</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="N_КАЛ" pos="N">Най</t>
+
+        <t Contlex="PROP_ОШ" pos="N">Раторош</t>
+
+        <t Contlex="N_ОШ" pos="N">Спас</t>
+
+        <t Contlex="PROP-SETTLEMENT_КАЛ" pos="N">Татарстан</t>
+
+        <t Contlex="PROP_КУДО" pos="N">Чаунза</t>
+
+        <t Contlex="N_КУДО" pos="N">Чумчара</t>
+
+        <t Contlex="PROP_КУДО" pos="N">Яга баба</t>
+
+        <t Contlex="PROP_КУДО" pos="N">Якшамбаба</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="DEITY"/>
+
+        <sem class="MYTH_BEING"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="PROP_КУДО" pos="N">баняава</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="MYTH_BEING"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="PROP_КУДО" pos="N">вармаатя</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="PROP_КУДО" pos="N">варматетя</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="DEITY"/>
+
+        <sem class="MYTH_BEING"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="PROP_КУДО" pos="N">ведьава</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="MYTH_BEING"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="PROP_КУДО" pos="N">ведьатя</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="PROP_КУДО" pos="N">ведьбабака</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="DEITY"/>
+
+        <sem class="MYTH_BEING"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="PROP_ОШ" pos="N">верепаз</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="PROP_КАЛ" pos="N">июль</t>
+
+        <t Contlex="PROP_КАЛ" pos="N">июнь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="DEITY"/>
+
+        <sem class="MYTH_BEING"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="PROP_КУДО" pos="N">кизэатя</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="DEITY"/>
+
+        <sem class="MYTH_BEING"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="PROP_ОШ" pos="N">ковпаз</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="DEITY"/>
+
+        <sem class="MYTH_BEING"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="PROP_КУДО" pos="N">ковпазава</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="DEITY"/>
+
+        <sem class="MYTH_BEING"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="PROP_КУДО" pos="N">комолявине</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="DEITY"/>
+
+        <sem class="MYTH_BEING"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="PROP_КУДО" pos="N">комолявка</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="DEITY"/>
+
+        <sem class="MYTH_BEING"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="PROP_ОШ" pos="N">куванпаз</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="DEITY"/>
+
+        <sem class="MYTH_BEING"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="PROP_КУДО" pos="N">кумбоава</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="DEITY"/>
+
+        <sem class="MYTH_BEING"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="PROP_КУДО" pos="N">кумбоава</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="PROP_КУДО-PL" pos="N">курцят</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="DEITY"/>
+
+        <sem class="MYTH_BEING"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="PROP_КУДО" pos="N">масторава</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="DEITY"/>
+
+        <sem class="MYTH_BEING"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="PROP_ОШ" pos="N">масторпаз</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="DEITY"/>
+
+        <sem class="MYTH_BEING"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="PROP_КУДО" pos="N">нишкеава</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="DEITY"/>
+
+        <sem class="MYTH_BEING"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="PROP_ОШ" pos="N">норовпаз</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="DEITY"/>
+
+        <sem class="MYTH_BEING"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="PROP_ОШ" pos="N">пурьгинепаз</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="PROP_КУДО" pos="N">равтетя</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="MYTH_BEING"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="PROP_КУДО" pos="N">суватя</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="DEITY"/>
+
+        <sem class="MYTH_BEING"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="PROP_ОШ" pos="N">сяркопаз</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="DEITY"/>
+
+        <sem class="MYTH_BEING"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="PROP_ОШ" pos="N">чипаз</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="DEITY"/>
+
+        <sem class="MYTH_BEING"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="PROP_ОШ" pos="N">чувтопаз</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="DEITY"/>
+
+        <sem class="MYTH_BEING"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="PROP_ОШ" pos="N">шкипаз</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="DEITY"/>
+
+        <sem class="MYTH_BEING"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="PROP_ОШ" pos="N">шкитрипаз</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">XX</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="PROP_КУДО" pos="N">юртавине</t>
+
+        <t Contlex="PROP_КАЛ" pos="N">юртазор</t>
       </tg>
     </mg>
   </e>
@@ -618,7 +1318,7 @@
 
   <e>
     <lg>
-      <l pos="N">Evankeliumi</l>
+      <l pos="N">evankeliumi</l>
 
       <stg>
         <st/>
