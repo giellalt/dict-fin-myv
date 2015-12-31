@@ -98987,8 +98987,7 @@
 
   <e>
     <lg>
-      <l pos="N">multapenkki</l>
-
+      <l pos="N">multa</l>
       <stg>
         <st/>
       </stg>
@@ -98996,8 +98995,21 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="N_ОШ" pos="N">валявкс</t>
+	<re>пирень, паксянь</re>
+        <t Contlex="N_КУДО" pos="N">мода</t>
       </tg>
+      <xg>
+	<x>hedelmällinen multa</x>
+	<xt infSrc="SE" lang="erz">норовов мода</xt>
+      </xg>
+      <xg>
+	<x>laiha multa</x>
+	<xt infSrc="SE" lang="erz">берянь мода</xt>
+      </xg>
+      <xg>
+	<x>peittyä multaan</x>
+	<xt infSrc="SE" lang="erz">модыямс</xt>
+      </xg>
     </mg>
   </e>
 
@@ -99018,6 +99030,7 @@
       </semantics>
 
       <tg xml:lang="myv">
+        <t Contlex="N_ОШ" pos="N">валявкс</t>
         <t Contlex="N_КУДО" pos="N">завалина</t>
       </tg>
     </mg>
