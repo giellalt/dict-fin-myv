@@ -79450,8 +79450,8 @@
 
   <e>
     <lg>
-      <l pos="N">lauta;
-        lankku; laatta, levy, taulu</l>
+      <l pos="N">lauta,
+        lankku, laatta, levy, taulu</l>
 
       <stg>
         <st/>
@@ -101368,7 +101368,7 @@
 
   <e>
     <lg>
-      <l pos="N">määritelmä: päätös</l>
+      <l pos="N">määritelmä - päätös</l>
 
       <stg>
         <st/>
@@ -155223,7 +155223,7 @@
 
   <e>
     <lg>
-      <l pos="N">stereotypia! aatta</l>
+      <l pos="N">stereotypia</l>
 
       <stg>
         <st/>
@@ -161214,7 +161214,7 @@
 
   <e>
     <lg>
-      <l pos="A">tahrainen (pyykki, keho): hikinen</l>
+      <l pos="A">tahrainen (pyykki, keho) - hikinen</l>
 
       <stg>
         <st/>
@@ -167654,7 +167654,7 @@
 
   <e>
     <lg>
-      <l pos="N">terve!</l>
+      <l pos="N">terve</l>
 
       <stg>
         <st/>
@@ -191563,7 +191563,7 @@
 
   <e>
     <lg>
-      <l pos="N">viiva: juova</l>
+      <l pos="N">viiva - juova</l>
 
       <stg>
         <st/>

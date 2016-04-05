@@ -4046,7 +4046,7 @@
 
   <e>
     <lg>
-      <l pos="V">hakata, murskata (sotajoukko yms.); sotkea (langat yms.);
+      <l pos="V">hakata, murskata (sotajoukko yms.), sotkea (langat yms.),
         tallata, polkea</l>
 
       <stg>
@@ -6025,7 +6025,7 @@
 
   <e>
     <lg>
-      <l pos="V">herättää, synnyttää, aiheuttaa; olla mieliksi; selviytyä,
+      <l pos="V">herättää, synnyttää, aiheuttaa, olla mieliksi, selviytyä,
         selvitä</l>
 
       <stg>
@@ -10438,7 +10438,7 @@
 
   <e>
     <lg>
-      <l pos="V">iskeä, lyödä; panna; kaataa; riisua; synnyttää
+      <l pos="V">iskeä, lyödä, panna, kaataa, riisua, synnyttää
         ennenaikaisesti</l>
 
       <stg>
@@ -10865,8 +10865,40 @@
 
   <e>
     <lg>
-      <l pos="V">jakaa, jaella, jaotella; venyttää, levittää, pitkittää;
-        tulla töin tuskin toimeen; ylettyä, ulottua</l>
+      <l pos="V">jakaa, jaella, jaotella, venyttää, levittää, pitkittää,
+        tulla töin tuskin toimeen, ylettyä, ulottua</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_КАДОМС-ObjAll" pos="V">сатстомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">jakaa</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="TV_КАДОМС-ObjAll" pos="V">сатстомс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">venyttää</l>
+
 
       <stg>
         <st/>
@@ -18582,7 +18614,7 @@
 
   <e>
     <lg>
-      <l pos="V">kosketella; käydä tervehtimässä. мон сеедьстэ токшан
+      <l pos="V">kosketella, käydä tervehtimässä. мон сеедьстэ токшан
         coнензэ käyn usein hänen luonaan</l>
 
       <stg>
@@ -19398,7 +19430,7 @@
 
   <e>
     <lg>
-      <l pos="V">kuljettaa, viedä; vetää, kiskoa; kuluttaa (rikki); nykiä,
+      <l pos="V">kuljettaa, viedä, vetää, kiskoa, kuluttaa (rikki), nykiä,
         tempoa</l>
 
       <stg>
@@ -20611,7 +20643,7 @@
 
   <e>
     <lg>
-      <l pos="V" val="TV">kuumentaa hehkuvaksi; (kuv.) saada raivoihinsa</l>
+      <l pos="V" val="TV">kuumentaa hehkuvaksi, (kuv.) saada raivoihinsa</l>
 
       <stg>
         <st/>
@@ -23213,7 +23245,7 @@
 
   <e>
     <lg>
-      <l pos="V" val="IV">lasketella hölynpölyä:</l>
+      <l pos="V" val="IV">lasketella hölynpölyä</l>
 
       <stg>
         <st/>
@@ -24973,7 +25005,7 @@
 
   <e>
     <lg>
-      <l pos="V">loiskahtaa, polskahtaa; heittää, nakata, paiskata,
+      <l pos="V">loiskahtaa, polskahtaa, heittää, nakata, paiskata,
         ravistaa, pudistaa</l>
 
       <stg>
@@ -25933,7 +25965,7 @@
 
   <e>
     <lg>
-      <l pos="V">luulla (jksik); pitää (jnak)</l>
+      <l pos="V">luulla (jksik), pitää (jnak)</l>
 
       <stg>
         <st/>
@@ -26925,7 +26957,7 @@
 
   <e>
     <lg>
-      <l pos="V">lämmittää; sammuttaa (jano). удоманть явавтомс nukkua
+      <l pos="V">lämmittää, sammuttaa (jano). удоманть явавтомс nukkua
         kyllikseen</l>
 
       <stg>
@@ -26958,7 +26990,7 @@
 
   <e>
     <lg>
-      <l pos="V">läpsyttää, lätkyttää, läiskyttää, läpsytellä, läimäytellä;
+      <l pos="V">läpsyttää, lätkyttää, läiskyttää, läpsytellä, läimäytellä,
         (kävellä) lepsutella, tallustella, tallustaa, 1афоа, rämpiä</l>
 
       <stg>
@@ -28276,7 +28308,7 @@
 
   <e>
     <lg>
-      <l pos="V">mennä, lähteä; käydä, sopia. тусь пиземе alkoi sataa</l>
+      <l pos="V">mennä, lähteä, käydä, sopia. тусь пиземе alkoi sataa</l>
 
       <stg>
         <st/>
@@ -35212,7 +35244,7 @@
 
   <e>
     <lg>
-      <l pos="V">paistaa, paahtaa; aiheuttaa janoa</l>
+      <l pos="V">paistaa, paahtaa, aiheuttaa janoa</l>
 
       <stg>
         <st/>
@@ -35260,7 +35292,7 @@
 
   <e>
     <lg>
-      <l pos="V">paisua yli äyräitten; turvota, paisua; täyttyä, tulla
+      <l pos="V">paisua yli äyräitten, turvota, paisua, täyttyä, tulla
         täyteen mehua (hedelmä)</l>
 
       <stg>
@@ -36265,8 +36297,8 @@
 
   <e>
     <lg>
-      <l pos="V">panna, asettaa, sijoittaa; istuttaa, panna kasvamaan;
-        sijoittaa, investoida; nimittää, asettaa</l>
+      <l pos="V">panna, asettaa, sijoittaa, istuttaa, panna kasvamaan,
+        sijoittaa, investoida, nimittää, asettaa</l>
 
       <stg>
         <st/>
@@ -36592,9 +36624,9 @@
 
   <e>
     <lg>
-      <l pos="V">paukauttaa, pamauttaa, läimäyttää, lyödä; paukahtaa,
-        pamahtaa, хлопаемс paukuttaa, paukutella, läimäyteliä; taputtaa,
-        taputella; paukkua, pamahdella</l>
+      <l pos="V">paukauttaa, pamauttaa, läimäyttää, lyödä, paukahtaa,
+        pamahtaa, хлопаемс paukuttaa, paukutella, läimäyteliä, taputtaa,
+        taputella, paukkua, pamahdella</l>
 
       <stg>
         <st/>
@@ -38780,8 +38812,8 @@
 
   <e>
     <lg>
-      <l pos="V">pistää, työntää, painaa, сялдомс tuomita; hylätä; moittia,
-        paheksua; häpäistä; (puh.) parjata, sättiä</l>
+      <l pos="V">pistää, työntää, painaa, сялдомс tuomita, hylätä, moittia,
+        paheksua, häpäistä, (puh.) parjata, sättiä</l>
 
       <stg>
         <st/>
@@ -39267,7 +39299,7 @@
 
   <e>
     <lg>
-      <l pos="V">polkea (olkia yms.); (kuv.) pehmittää selkä</l>
+      <l pos="V">polkea (olkia yms.), (kuv.) pehmittää selkä</l>
 
       <stg>
         <st/>
@@ -39793,7 +39825,7 @@
 
   <e>
     <lg>
-      <l pos="V">pudistaa, ravistaa, karistaa, чукамс pudistaa, ravistaa;
+      <l pos="V">pudistaa, ravistaa, karistaa, чукамс pudistaa, ravistaa,
         survoa, hienontaa</l>
 
       <stg>
@@ -40843,7 +40875,7 @@
 
   <e>
     <lg>
-      <l pos="V">puristaa, painaa; asettua; puutua; (vesi) laskea</l>
+      <l pos="V">puristaa, painaa, asettua, puutua, (vesi) laskea</l>
 
       <stg>
         <st/>
@@ -40859,7 +40891,7 @@
 
   <e>
     <lg>
-      <l pos="V">puristautua (jtak vasten); pistää, tunkea</l>
+      <l pos="V">puristautua (jtak vasten), pistää, tunkea</l>
 
       <stg>
         <st/>
@@ -41023,7 +41055,7 @@
 
   <e>
     <lg>
-      <l pos="V">pusertaa, puristaa, painaa; kuoria (siemeniä, pähkinöitä);
+      <l pos="V">pusertaa, puristaa, painaa, kuoria (siemeniä, pähkinöitä),
         muokata (nahka)</l>
 
       <stg>
@@ -41976,8 +42008,8 @@
 
   <e>
     <lg>
-      <l pos="V">päätellä, arvostella; arvella, ajatella; tuomita; käsitellä
-        oikeudessa; olla (ero)tuomarina</l>
+      <l pos="V">päätellä, arvostella, arvella, ajatella, tuomita, käsitellä
+        oikeudessa, olla (ero)tuomarina</l>
 
       <stg>
         <st/>
@@ -46267,6 +46299,7 @@
         <t Contlex="TV_КУНДАМС-ObjAll" pos="V">добавамс</t>
 
         <t Contlex="TV_КУНДАМС-ObjAll" pos="V">сасамс</t>
+        <t Contlex="TV_КАДОМС-ObjAll" pos="V">стардомс</t>
       </tg>
     </mg>
   </e>
@@ -48091,7 +48124,7 @@
 
   <e>
     <lg>
-      <l pos="V" val="IV">siristä: rämistä</l>
+      <l pos="V" val="IV">siristä</l>
 
       <stg>
         <st/>
@@ -48783,7 +48816,7 @@
 
   <e>
     <lg>
-      <l pos="V">sopia: kunnostaa</l>
+      <l pos="V" re="kunnostaa">sopia</l>
 
       <stg>
         <st/>
@@ -48931,7 +48964,7 @@
 
   <e>
     <lg>
-      <l pos="V">sotkea (langat yms.); talloa</l>
+      <l pos="V">sotkea (langat yms.), talloa</l>
 
       <stg>
         <st/>
@@ -49427,7 +49460,7 @@
 
   <e>
     <lg>
-      <l pos="V">sulloa, täyttää; pistää, työntää</l>
+      <l pos="V">sulloa, täyttää, pistää, työntää</l>
 
       <stg>
         <st/>
@@ -51735,7 +51768,7 @@
 
   <e>
     <lg>
-      <l pos="V">tahria (pyykki, keho); hiostuttaa</l>
+      <l pos="V">tahria (pyykki, keho), hiostuttaa</l>
 
       <stg>
         <st/>
@@ -52753,7 +52786,7 @@
 
   <e>
     <lg>
-      <l pos="V">tartuttaa nokitautiin (kasvit); hiillyttää</l>
+      <l pos="V">tartuttaa nokitautiin (kasvit), hiillyttää</l>
 
       <stg>
         <st/>
@@ -57380,14 +57413,14 @@
         <t Contlex="IV_ЯНГАВОМС" pos="V" val="IV">эвкставомс</t>
 
         <t Contlex="IV_САЕВЕМС" pos="V" val="IV">эцевемс</t>
+        <t Contlex="IV_КУНДАМС" pos="V">эцемс</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="V">työntyä, ryömiä, kavuta;
-        pyrkiä</l>
+      <l pos="V">ryömiä, kavuta, pyrkiä</l>
 
       <stg>
         <st/>
@@ -63454,7 +63487,7 @@
 
   <e>
     <lg>
-      <l pos="V">ylittää, mennä yli; (murt.) poistua, loitota, mennä
+      <l pos="V">ylittää, mennä yli, (murt.) poistua, loitota, mennä
         pois</l>
 
       <stg>
@@ -63529,8 +63562,8 @@
     <mg>
       <tg xml:lang="myv">
         <t Contlex="TV_САВТОМС-ObjAll" pos="V">дивавтомс</t>
-
         <t Contlex="TV_КУНДАМС-ObjAll" pos="V">застанямс</t>
+        <t Contlex="TV_КАДОМС-ObjAll" pos="V">стардомс</t>
       </tg>
     </mg>
   </e>
@@ -63553,8 +63586,7 @@
 
   <e>
     <lg>
-      <l pos="V">yllättää, saavuttaa, tavoittaa (tekemästä); tarttua, ottaa
-        kiinni</l>
+      <l pos="V">tavoittaa (tekemästä), tarttua, ottaa kiinni</l>
 
       <stg>
         <st/>
@@ -64350,7 +64382,7 @@
 
   <e>
     <lg>
-      <l pos="V" val="IV">чамордомс ontua: чан amme</l>
+      <l pos="V" val="IV" re="чамордомс ontua">чан amme</l>
 
       <stg>
         <st/>
