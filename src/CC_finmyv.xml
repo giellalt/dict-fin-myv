@@ -56,22 +56,6 @@
 
   <e>
     <lg>
-      <l pos="CS">jos</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="CS" pos="CS">бути</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="CC">mutta</l>
 
       <stg>
@@ -89,23 +73,6 @@
       </tg>
     </mg>
   </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">tai</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="CC" pos="CC">эли</t>
-      </tg>
-    </mg>
-  </e>
-
   <e>
     <lg>
       <l pos="CC">tai</l>
@@ -117,6 +84,7 @@
 
     <mg>
       <tg xml:lang="myv">
+        <t Contlex="CC" pos="CC">эли</t>
         <t Contlex="CC" pos="CC">или</t>
       </tg>
     </mg>
@@ -149,6 +117,7 @@
 
     <mg>
       <tg xml:lang="myv">
+        <t Contlex="CC" pos="CC">эли</t>
         <t Contlex="CC" pos="CC">или</t>
       </tg>
     </mg>

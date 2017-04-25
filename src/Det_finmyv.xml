@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="/Users/rueter/main/giella-core/schemas/fiu-dict-schema.xsd"
+   xml:lang="fin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <lics xml:space="preserve">
+    <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+   You are free to copy, distribute and adapt the work, as long as you always give
+   proper attribution using the attribution text below.
+   For the full license text, see the link above.</lic>
+
+    <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+   Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+
+    <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+   This is NOT a fully styled and published dictionary.
+   As such it can and will contain unfinished entries, unpublished entries, 
+   entries with objectionable translations, etc. If you find any errors 
+   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote>
+  </lics>
+
+  <e>
+    <lg>
+      <l pos="Det">ensi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="MORFAS"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="A_КАЛ" pos="Det">васень</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Det">ensimmäinen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="MORFAS"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="A_КАЛ" pos="Det">васень</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Det">nämä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="ne-Dem" pos="Det">неть</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Det">tuo</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="vese-DET" pos="Det">се</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Det">tämä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="DET-DEM_ТЕ" pos="Det">те</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Det">kahdeksas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="mORD_SMALL"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="DET_КУДО" pos="Det">кавксоце</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Det">kahdeskymmenesensimmäinen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="DET_КУДО" pos="Det">комсьвейкееце</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Det">kahdeskymmenestoinen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="DET_КУДО" pos="Det">комськавтовоце</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Det">kahdeskymmenesviides</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="DET_КУДО" pos="Det">комсьветееце</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Det">kahdeskymmenesyhdeksäs</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="DET_КУДО" pos="Det">комсьвейксэеце</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Det">kaikki</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="vese-DET" pos="Dem">весе</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Det">kolmas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="mORD_SMALL"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="DET_КУДО" pos="Det">колмоце</t>
+      </tg>
+    </mg>
+  </e>
+
+
+  <e>
+    <lg>
+      <l pos="Det">kuudes</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="mORD_SMALL"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="DET_КУДО" pos="Det">котоце</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Det">kymmenes</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="mORD_SMALL"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="DET_КУДО" pos="Det">кеменце</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Det">monesko</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="ORD" pos="Det">зняроце</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Det">neljäs</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="mORD_SMALL"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="DET_КУДО" pos="Det">нилеце</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Det">neljäskymmenes</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="ORD" pos="Det">ниленьгеменце</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Det">seitsemäs</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="mORD_SMALL"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="DET_КУДО" pos="Det">сисемеце</t>
+      </tg>
+    </mg>
+  </e>
+
+
+  <e>
+    <lg>
+      <l pos="Det">toinen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="HUMAN_A"/>
+        <sem class="mORD_SMALL"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="A_ОШ" pos="Det">омботькс</t>
+        <t Contlex="ORD_КУДО" pos="Det">омбоце</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="A_КУДО" pos="Det">лия</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Det">joka</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="QNT_КУДО" pos="Det">эрьва</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Det">jokainen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="QNT_КУДО" pos="Det">эрьва</t>
+      </tg>
+    </mg>
+  </e>
+
+
+
+  <e>
+    <lg>
+      <l pos="Det">tuhannes</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="myv">
+        <t Contlex="ORD_КУДО" pos="Det">тёжаце</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Det">viides</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="mORD_SMALL"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="ORD" pos="Det">ветеце</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Det">yhdeksäs</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <semantics>
+        <sem class="mORD_SMALL"/>
+      </semantics>
+
+      <tg xml:lang="myv">
+        <t Contlex="ORD" pos="Det">вейксэце</t>
+      </tg>
+    </mg>
+  </e>
+
+
+</r>

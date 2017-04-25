@@ -22,47 +22,7 @@
 
   <e>
     <lg>
-      <l pos="A">ensi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <semantics>
-        <sem class="MORFAS"/>
-      </semantics>
-
-      <tg xml:lang="myv">
-        <t Contlex="A_КАЛ" pos="A">васень</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">ensimmäinen</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <semantics>
-        <sem class="MORFAS"/>
-      </semantics>
-
-      <tg xml:lang="myv">
-        <t Contlex="A_КАЛ" pos="A">васень</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">nämä</l>
+      <l pos="CS">jos</l>
 
       <stg>
         <st/>
@@ -71,40 +31,9 @@
 
     <mg>
       <tg xml:lang="myv">
-        <t Contlex="ne-Dem" pos="Pron">неть</t>
+        <t Contlex="CS" pos="CS">бути</t>
       </tg>
     </mg>
   </e>
 
-  <e>
-    <lg>
-      <l pos="Pron">tuo</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="vese-QNT" pos="Pron">се</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">tämä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="myv">
-        <t Contlex="DET-DEM_ТЕ" pos="Det">те</t>
-      </tg>
-    </mg>
-  </e>
 </r>
